@@ -1,0 +1,3952 @@
+{
+    "\u4f1a\u3046": [
+        16,
+        3,
+        "(\u30ab\u30a4|\u3042\u3046) rencontrer, avoir un accident, une mauvaise exp\u00e9rience"
+    ],
+    "\u958b": [
+        3,
+        1,
+        "(\u30ab\u30a4|\u3042\u304f) ouvrir, \u00eatre ouvert"
+    ],
+    "\u4e0a\u3052\u308b": [
+        33,
+        4,
+        "(\u3042\u3052\u308b) donner, \u00e9lever, soulever, augmenter"
+    ],
+    "\u671d": [
+        49,
+        4,
+        "(\u3042\u3055) matin"
+    ],
+    "\u660e\u65e5": [
+        17,
+        3,
+        "(\u3042\u3057\u305f) demain"
+    ],
+    "\u660e\u5f8c\u65e5": [
+        26,
+        4,
+        "(\u3042\u3055\u3063\u3066|\u307f\u3087\u3046\u3054\u306b\u3061) apr\u00e8s-demain"
+    ],
+    "\u8db3": [
+        20,
+        4,
+        "(\u3042\u3057) pied, jambe"
+    ],
+    "(\u3042\u305d\u3053)": [
+        17,
+        3,
+        "l\u00e0-bas"
+    ],
+    "\u904a\u3076": [
+        18,
+        3,
+        "(\u3042\u305d\u3076) jouer"
+    ],
+    "\u6696\u304b\u3044": [
+        22,
+        4,
+        "(\u3042\u305f\u305f\u304b\u3044) chaud"
+    ],
+    "\u982d": [
+        20,
+        4,
+        "(\u3042\u305f\u307e) t\u00eate"
+    ],
+    "\u65b0\u3057\u3044": [
+        19,
+        3,
+        "(\u3042\u305f\u3089\u3057\u3044) nouveau (r\u00e9cent, frais)"
+    ],
+    "\u65b0": [
+        23,
+        4,
+        "(\u3057\u3093), nouveau"
+    ],
+    "(\u3042\u3061\u3089)": [
+        17,
+        3,
+        "par l\u00e0-bas"
+    ],
+    "\u6691\u3044|\u539a\u3044": [
+        37,
+        4,
+        "(\u3042\u3064\u3044) chaud, brulant, lourd"
+    ],
+    "\u5144": [
+        20,
+        4,
+        "(\u3042\u306b) grand-fr\u00e8re"
+    ],
+    "\u59c9": [
+        29,
+        4,
+        "(\u3042\u306d) grande-soeur"
+    ],
+    "(\u3042\u306e)": [
+        26,
+        4,
+        "heuu.. | cela"
+    ],
+    "(\u30a2\u30d1\u30fc\u30c8)": [
+        17,
+        3,
+        "appartement"
+    ],
+    "\u6d74\u3073\u308b": [
+        18,
+        3,
+        "(\u3042\u3073\u308b) s'asperger d'eau, se baigner, \u00eatre la cible de"
+    ],
+    "\u5371\u306a\u3044": [
+        21,
+        4,
+        "(\u3042\u3076\u306a\u3044) dangereux"
+    ],
+    "\u7518\u3044": [
+        17,
+        3,
+        "(\u3042\u307e\u3044) sucr\u00e9"
+    ],
+    "\u4f59\u308a": [
+        -2,
+        1,
+        "(\u3042\u307e\u308a) tr\u00e8s, trop, exceptionnel (utilis\u00e9 souvent n\u00e9gativement)"
+    ],
+    "\u9752": [
+        22,
+        4,
+        "(\u3042\u304a) bleu"
+    ],
+    "\u8d64": [
+        28,
+        4,
+        "(\u3042\u304b) rouge"
+    ],
+    "\u9ec4\u8272": [
+        3,
+        1,
+        "(\u304d\u3044\u308d) jaune, ambre"
+    ],
+    "\u7d2b": [
+        -2,
+        1,
+        "(\u3080\u3089\u3055\u304d) violet"
+    ],
+    "\u660e\u3044": [
+        3,
+        1,
+        "(\u30e1\u30a4|\u3042\u304b\u308b\u3044) \u00e9clair\u00e9, clair"
+    ],
+    "\u79cb": [
+        4,
+        1,
+        "(\u30b7\u30e5|\u3042\u304d) automne"
+    ],
+    "\u8a95\u751f\u4f1a": [
+        20,
+        4,
+        "(\u30bf\u30f3\u30b8\u30e7\u30ab\u30a4) f\u00eate d'anniversaire"
+    ],
+    "\u9752\u7a7a": [
+        18,
+        3,
+        "(\u3042\u304a\u305e\u3089) ciel bleu"
+    ],
+    "\u898b\u4e0a\u3052\u308b": [
+        16,
+        3,
+        "(\u307f\u3042\u3052\u308b) lever les yeux, regarder en haut, admirer, respecter"
+    ],
+    "\u671d\u5fa1\u98ef": [
+        26,
+        4,
+        "(\u3042\u3055\u3054\u306f\u3093) petit d\u00e9jeuner"
+    ],
+    "\u98f4": [
+        11,
+        3,
+        "(\u3042\u3081) bonbon"
+    ],
+    "\u6d17\u3046": [
+        2,
+        1,
+        "(\u3042\u3089\u3046) laver"
+    ],
+    "\u6b69\u304f": [
+        17,
+        3,
+        "(\u3042\u308b\u304f) marcher"
+    ],
+    "\u51fa\u6b69\u304f": [
+        3,
+        1,
+        "(\u3067\u3042\u308b\u304f) sortir, se promener, faire un tour"
+    ],
+    "\u7d20\u8db3\u3067\u6b69\u304f": [
+        4,
+        1,
+        "(\u3059\u3042\u3057\u3067\u3042\u308b\u304f) marcher pieds-nus"
+    ],
+    "\u57fa": [
+        4,
+        1,
+        "(\u3082\u3068|\u3059) base, origine, source, cause"
+    ],
+    "\u3044\u3044/\u3088\u3044": [
+        17,
+        3,
+        "bon, bien"
+    ],
+    "\u3044\u3044\u3048": [
+        20,
+        4,
+        "non"
+    ],
+    "\u8a00\u3046": [
+        20,
+        4,
+        "(\u3044\u3046) dire"
+    ],
+    "\u9670\u3067\u60aa\u53e3\u3092\u8a00\u3046": [
+        13,
+        3,
+        "(\u304b\u3052\u3067\u308f\u308b\u304f\u3061\u3092\u3044\u3046) dire du mal de qq'un dans son dos, m\u00e9dire"
+    ],
+    "\u5bb6": [
+        13,
+        3,
+        "(\u3044\u3048) maison"
+    ],
+    "\u3044\u304b\u304c|\u3044\u304f\u3064": [
+        12,
+        3,
+        "combien ? (pas un prix)"
+    ],
+    "\u3044\u304f\u3089": [
+        14,
+        3,
+        "Combien \u00e7a co\u00fbte ?"
+    ],
+    "\u6c60": [
+        2,
+        1,
+        "(\u3044\u3051) \u00e9tang"
+    ],
+    "\u533b\u8005": [
+        21,
+        4,
+        "(\u3044\u3057\u3083) docteur"
+    ],
+    "\u53e3": [
+        17,
+        3,
+        "(\u304f\u3061) bouche"
+    ],
+    "\u60aa": [
+        2,
+        1,
+        "(\u3042\u304f|\u308f\u308b) mal, vice | mauvaise chose/personne"
+    ],
+    "\u6905\u5b50": [
+        4,
+        1,
+        "(\u3044\u3059) chaise"
+    ],
+    "\u5fd9\u3057\u3044": [
+        12,
+        3,
+        "(\u3044\u305d\u304c\u3057\u3044|\u307c\u3046) occup\u00e9"
+    ],
+    "\u75db\u3044": [
+        4,
+        1,
+        "(\u3044\u305f\u3044) douloureux"
+    ],
+    "\u3044\u3061\u3070\u3093": [
+        5,
+        1,
+        "premier"
+    ],
+    "\u4e94\u65e5": [
+        0,
+        1,
+        "(\u3044\u3064\u304b) cinqui\u00e8me jour"
+    ],
+    "\u3044\u3064": [
+        10,
+        3,
+        "quand"
+    ],
+    "\u4e00\u7dd2": [
+        11,
+        3,
+        "(\u3044\u3063\u3057\u3087) ensemble"
+    ],
+    "\u7dd2": [
+        4,
+        1,
+        "(\u304a) corde, lani\u00e8re, sangle"
+    ],
+    "\u4f55\u6642\u3082": [
+        14,
+        3,
+        "(\u3044\u3064\u3082) toujours"
+    ],
+    "\u72ac": [
+        18,
+        3,
+        "(\u3044\u306c) chien"
+    ],
+    "\u610f\u5473": [
+        15,
+        3,
+        "(\u3044\u307f) sens, d\u00e9finition"
+    ],
+    "\u59b9": [
+        12,
+        3,
+        "(\u3044\u3082\u3046\u3068) petite soeur"
+    ],
+    "\u5473": [
+        5,
+        1,
+        "(\u3042\u3058|\u307f) go\u00fbt"
+    ],
+    "\u5473\u65b9": [
+        12,
+        3,
+        "(\u307f\u304b\u305f) alli\u00e9, du c\u00f4t\u00e9 de quelqu'un"
+    ],
+    "\u5acc": [
+        11,
+        3,
+        "(\u3044\u3084) d\u00e9sagr\u00e9able"
+    ],
+    "\u5165\u53e3": [
+        4,
+        1,
+        "(\u3044\u308a\u3050\u3061) entr\u00e9e, porte, voie d'acc\u00e8s"
+    ],
+    "\u5c45\u308b": [
+        -1,
+        1,
+        "(\u3044\u308b) \u00eatre, \u00eatre pr\u00e9sent, exister, se trouver; avoir"
+    ],
+    "\u8981\u308b": [
+        -2,
+        1,
+        "(\u3044\u308b) avoir besoin de"
+    ],
+    "\u5165\u308c\u308b": [
+        13,
+        3,
+        "(\u3044\u308c\u308b) ins\u00e9rer, mettre, inclure"
+    ],
+    "\u8272": [
+        5,
+        1,
+        "(\u3044\u308d) couleur"
+    ],
+    "\u3044\u308d\u3044\u308d": [
+        4,
+        1,
+        "vari\u00e9"
+    ],
+    "\u8584\u3044": [
+        12,
+        3,
+        "(\u3046\u3059\u3044) faible, mince, fin, peu \u00e9pais, l\u00e9ger"
+    ],
+    "\u8584\u3044\u670d": [
+        2,
+        1,
+        "(\u3046\u3059\u3044\u3075\u304f) un v\u00eatement l\u00e9ger"
+    ],
+    "\u8584\u3044\u30b3\u30fc\u30d2\u30fc": [
+        14,
+        3,
+        "(\u3046\u3059\u3044\u30b3\u30fc\u30d2\u30fc) un caf\u00e9 fade"
+    ],
+    "\u8584\u3044\u8272": [
+        19,
+        3,
+        "(\u3046\u3059\u3044\u3044\u308d) une couleur claire"
+    ],
+    "\u6d77\u8cca": [
+        13,
+        3,
+        "(\u304b\u3044\u305e\u304f) pirate"
+    ],
+    "\u738b": [
+        10,
+        3,
+        "(\u304a\u3046) roi"
+    ],
+    "\u5bdd\u5ba4": [
+        2,
+        1,
+        "(\u3057\u3093\u3057\u3064) chambre"
+    ],
+    "\u53f0\u6240": [
+        10,
+        3,
+        "(\u3060\u3044\u3069\u3053\u308d) cuisine"
+    ],
+    "\u9b5a": [
+        11,
+        3,
+        "(\u3055\u304b\u306a) poisson"
+    ],
+    "\u99ac": [
+        10,
+        3,
+        "(\u3046\u307e) cheval"
+    ],
+    "\u82f1\u8a9e": [
+        13,
+        3,
+        "(\u3048\u3044\u3054) anglais"
+    ],
+    "\u98f2\u3080": [
+        10,
+        3,
+        "(\u306e\u3080) boire"
+    ],
+    "\u5348\u524d": [
+        12,
+        3,
+        "(\u3054\u305c\u3093) matin"
+    ],
+    "\u5348\u5f8c": [
+        3,
+        1,
+        "(\u3054\u3054) apr\u00e8s-midi"
+    ],
+    "\u79c1": [
+        10,
+        3,
+        "(\u308f\u305f\u3057) je, moi"
+    ],
+    "\u8d77\u304d\u308b": [
+        13,
+        3,
+        "(\u304a\u304d\u308b) se r\u00e9veiller"
+    ],
+    "\u5bdd\u308b": [
+        12,
+        3,
+        "(\u306d\u308b) dormir, se coucher, coucher avec, aller au lit"
+    ],
+    "\u725b": [
+        0,
+        1,
+        "(\u3046\u3057) vache, bovin"
+    ],
+    "\u725b\u4e73": [
+        2,
+        1,
+        "(\u304e\u3085\u3046\u306b\u3085\u3046) lait"
+    ],
+    "\u725b\u8089": [
+        -1,
+        1,
+        "(\u304e\u3085\u3046\u306b\u304f) viande de boeuf"
+    ],
+    "\u96f6\u6642": [
+        5,
+        1,
+        "(\u308c\u3044\u3058) midi, minuit"
+    ],
+    "\u5ead": [
+        5,
+        1,
+        "(\u306b\u308f) jardin"
+    ],
+    "\u4f1a\u793e": [
+        -1,
+        1,
+        "(\u304b\u3044\u3057\u3083) compagnie, entreprise, soci\u00e9t\u00e9"
+    ],
+    "\u732b": [
+        11,
+        3,
+        "(\u306d\u3053) chat"
+    ],
+    "\u673a": [
+        11,
+        3,
+        "(\u3064\u304f\u3048) bureau"
+    ],
+    "\u6d77": [
+        11,
+        3,
+        "(\u3046\u307f) mer"
+    ],
+    "\u7a93": [
+        10,
+        3,
+        "(\u307e\u3069) fen\u00eatre"
+    ],
+    "\u5375": [
+        5,
+        1,
+        "(\u305f\u307e\u3054) oeuf"
+    ],
+    "\u6b4c": [
+        11,
+        3,
+        "(\u3046\u305f) chanson"
+    ],
+    "\u6b4c\u3046": [
+        11,
+        3,
+        "(\u3046\u305f\u3046) chanter"
+    ],
+    "\u751f\u307e\u308c\u308b": [
+        15,
+        3,
+        "(\u3046\u307e\u308c\u308b) na\u00eetre, \u00eatre n\u00e9"
+    ],
+    "\u58f2\u308b": [
+        1,
+        1,
+        "(\u3070\u3044|\u3046.\u308b) vendre"
+    ],
+    "\u7169\u3044": [
+        11,
+        3,
+        "(\u3046\u308b\u3055\u3044) bruyant"
+    ],
+    "\u4e0a\u7740": [
+        -1,
+        1,
+        "(\u3046\u308f\u304e) veste"
+    ],
+    "\u7d75": [
+        5,
+        1,
+        "(\u3048) peinture, dessin, image"
+    ],
+    "\u6620\u753b": [
+        5,
+        1,
+        "(\u3048\u3044\u304c) film"
+    ],
+    "\u6620\u753b\u9928": [
+        0,
+        1,
+        "(\u3048\u3044\u304c\u304b\u3093) salle de cin\u00e9ma, cin\u00e9ma"
+    ],
+    "\u99c5": [
+        5,
+        1,
+        "(\u3048\u304d) gare"
+    ],
+    "\u30a8\u30ec\u30d9\u30fc\u30bf\u30fc": [
+        3,
+        1,
+        "escalator"
+    ],
+    "\u925b\u7b46": [
+        15,
+        3,
+        "(\u3048\u3093\u3074\u3064) crayon"
+    ],
+    "\u7f8e\u5473\u3057\u3044": [
+        -1,
+        1,
+        "(\u304a\u3044\u3057\u3044) bon, d\u00e9licieux, savoureux"
+    ],
+    "\u591a\u3044": [
+        1,
+        1,
+        "(\u304a\u304a\u3044) nombreux"
+    ],
+    "\u5927\u52e2": [
+        0,
+        1,
+        "(\u304a\u304a\u305c\u3044) beaucoup de monde, foule"
+    ],
+    "\u304a\u6bcd\u3055\u3093": [
+        11,
+        3,
+        "(\u304a\u304b\u3042\u3055\u3093) m\u00e8re"
+    ],
+    "\u83d3\u5b50": [
+        2,
+        1,
+        "(\u304b\u3057) g\u00e2teau, p\u00e2tisserie"
+    ],
+    "\u7f6e\u304f": [
+        2,
+        1,
+        "(\u304a\u304f) placer, poser, mettre en place"
+    ],
+    "\u5965\u3055\u3093": [
+        5,
+        1,
+        "(\u304a\u304f\u3055\u3093) \u00e9pouse, ma\u00eetresse de maison"
+    ],
+    "\u304a\u9152": [
+        0,
+        1,
+        "(\u304a\u3055\u3051) sak\u00e9, alcool"
+    ],
+    "\u304a\u76bf": [
+        11,
+        3,
+        "(\u304a\u3055\u3089) assiette"
+    ],
+    "\u53d4\u7236": [
+        10,
+        3,
+        "(\u304a\u3058) mon oncle"
+    ],
+    "\u6559\u3048\u308b": [
+        5,
+        1,
+        "(\u304a\u3057\u3048\u308b) enseigner, apprendre (qqch \u00e0 qq'un)"
+    ],
+    "\u304a\u7956\u7236\u3055\u3093": [
+        10,
+        3,
+        "(\u304a\u3058\u3044\u3055\u3093) grand-p\u00e8re"
+    ],
+    "\u62bc\u3059": [
+        4,
+        1,
+        "(\u304a\u3059) pousser, appuyer, presser"
+    ],
+    "\u9045\u3044": [
+        -1,
+        1,
+        "(\u304a\u305d\u3044) tard, tardif; lent"
+    ],
+    "\u304a\u8336": [
+        2,
+        1,
+        "(\u304a\u3061\u3083) th\u00e9 vert"
+    ],
+    "\u304a\u624b\u6d17\u3044": [
+        5,
+        1,
+        "(\u304a\u3066\u3042\u3089\u3044) toilettes, salle de bain"
+    ],
+    "\u304a\u7236\u3055\u3093": [
+        12,
+        3,
+        "(\u304a\u3068\u3046\u3055\u3093) p\u00e8re, papa"
+    ],
+    "\u5f1f": [
+        4,
+        1,
+        "(\u304a\u3068\u3046\u3068) petit-fr\u00e8re"
+    ],
+    "\u7537\u306e\u5b50": [
+        15,
+        3,
+        "(\u304a\u3068\u3053\u306e\u3053) gar\u00e7on"
+    ],
+    "\u4e00\u6628\u65e5": [
+        12,
+        3,
+        "(\u304a\u3068\u3068\u3044) avant-hier"
+    ],
+    "\u4e00\u6628\u5e74": [
+        10,
+        3,
+        "(\u304a\u3068\u3068\u3057) il y a deux ans, l'ann\u00e9e avant l'ann\u00e9e derni\u00e8re"
+    ],
+    "\u5927\u4eba": [
+        5,
+        1,
+        "(\u304a\u3068\u306a) adulte"
+    ],
+    "\u304a\u8179": [
+        3,
+        1,
+        "(\u304a\u306a\u304b) ventre, estomac"
+    ],
+    "\u540c\u3058": [
+        3,
+        1,
+        "(\u304a\u306a\u3058) pareil, m\u00eame, identique"
+    ],
+    "\u304a\u5144\u3055\u3093": [
+        5,
+        1,
+        "(\u304a\u306b\u3044\u3055\u3093) fr\u00e8re a\u00een\u00e9"
+    ],
+    "\u304a\u59c9\u3055\u3093": [
+        11,
+        3,
+        "(\u304a\u306d\u3048\u3055\u3093) soeur a\u00een\u00e9e"
+    ],
+    "\u304a\u7956\u6bcd\u3055\u3093": [
+        5,
+        1,
+        "(\u304a\u3070\u3042\u3055\u3093) grand-m\u00e8re"
+    ],
+    "\u4f2f\u6bcd\u3055\u3093": [
+        11,
+        3,
+        "(\u304a\u3070\u3055\u3093) tante"
+    ],
+    "\u304a\u98a8\u5442": [
+        11,
+        3,
+        "(\u304a\u3075\u308d) bain"
+    ],
+    "\u304a\u5f01\u5f53": [
+        5,
+        1,
+        "(\u304a\u3079\u3093\u3068\u3046) bo\u00eete \u00e0 bento"
+    ],
+    "\u899a\u3048\u308b": [
+        1,
+        1,
+        "(\u304a\u307c\u3048\u308b) se souvenir, retenir| ressentir, consid\u00e9rer"
+    ],
+    "\u91cd\u3044": [
+        2,
+        1,
+        "(\u304a\u3082\u3044) lourd"
+    ],
+    "\u9762\u767d\u3044": [
+        1,
+        1,
+        "(\u304a\u3082\u3057\u308d\u3044) int\u00e9ressant, amusant, dr\u00f4le"
+    ],
+    "\u6cf3\u3050": [
+        1,
+        1,
+        "(\u304a\u3088\u3050) nager"
+    ],
+    "\u964d\u308a\u308b": [
+        0,
+        1,
+        "(\u304a\u308a\u308b) descendre (d'un v\u00e9hicule)"
+    ],
+    "\u7d42\u308f\u308b": [
+        10,
+        3,
+        "(\u304a\u308f\u308b) se terminer, finir"
+    ],
+    "\u97f3\u697d": [
+        3,
+        1,
+        "(\u304a\u3093\u304c\u304f) musique"
+    ],
+    "\u5973\u306e\u5b50": [
+        11,
+        3,
+        "(\u304a\u3093\u306a\u306e\u3053) fille (enfant)"
+    ],
+    "\u5916\u56fd": [
+        13,
+        3,
+        "(\u304c\u3044\u3053\u304f) pays \u00e9tranger"
+    ],
+    "\u5916\u56fd\u4eba": [
+        5,
+        1,
+        "(\u304c\u3044\u3053\u304f\u3058\u3093) \u00e9tranger"
+    ],
+    "\u968e\u6bb5": [
+        -2,
+        1,
+        "(\u304b\u3044\u3060\u3093) escalier"
+    ],
+    "\u8cb7\u3044\u7269": [
+        10,
+        3,
+        "(\u304b\u3044\u3082\u306e) courses, achats"
+    ],
+    "\u8cb7\u3044\u7269\u30ea\u30b9\u30c8": [
+        10,
+        3,
+        "(\u304b\u3044\u3082\u306e\u308a\u3059\u3068) liste de courses"
+    ],
+    "\u8cb7\u3044\u7269\u306b\u884c\u304f": [
+        13,
+        3,
+        "(\u304b\u3044\u3082\u306e\u306b\u3044\u304f) aller faire les courses"
+    ],
+    "\u8cb7\u3046": [
+        4,
+        1,
+        "(\u304b\u3046) acheter"
+    ],
+    "\u8fd4\u3059": [
+        2,
+        1,
+        "(\u304b\u3048\u3059) rendre, restituer"
+    ],
+    "\u5e30\u308b": [
+        5,
+        1,
+        "(\u304b\u3048\u308b) revenir"
+    ],
+    "\u7f79\u308b": [
+        4,
+        1,
+        "(\u304b\u304b\u308b) contracter une maladie, souffrir d'une maladie"
+    ],
+    "\u9375": [
+        -2,
+        1,
+        "(\u304b\u304e) clef, verrou"
+    ],
+    "\u5b66\u751f": [
+        1,
+        1,
+        "(\u304c\u304f\u305b\u3044) \u00e9tudiant"
+    ],
+    "\u96fb\u8a71\u3092\u639b\u3051\u308b": [
+        3,
+        1,
+        "(\u3067\u3093\u308f\u3092\u304b\u3051\u308b) t\u00e9l\u00e9phoner, appeler"
+    ],
+    "\u96fb\u8a71": [
+        7,
+        2,
+        "(\u3067\u3093\u308f) t\u00e9l\u00e9phone"
+    ],
+    "\u5098": [
+        0,
+        1,
+        "(\u304b\u3055) parapluie"
+    ],
+    "\u8cb8\u3059": [
+        4,
+        1,
+        "(\u304b\u3059) louer, mettre en location, pr\u00eater, donner"
+    ],
+    "\u98a8": [
+        3,
+        1,
+        "(\u304b\u305c) vent"
+    ],
+    "\u98a8\u90aa": [
+        -2,
+        1,
+        "(\u3075\u3046\u3058\u3083|\u304b\u305c) rhume"
+    ],
+    "\u5bb6\u65cf": [
+        0,
+        1,
+        "(\u304b\u305e\u304f) (membre d'une) famille"
+    ],
+    "\u65b9": [
+        5,
+        1,
+        "(\u304b\u305f) forme polie de \u4eba: personne; mani\u00e8re, fa\u00e7on"
+    ],
+    "\u6cbb\u3057\u65b9": [
+        -1,
+        1,
+        "(\u306a\u304a\u3057\u304b\u305f) Mani\u00e8re de gu\u00e9rir, rem\u00e8de"
+    ],
+    "\u6b69\u304d\u65b9": [
+        5,
+        1,
+        "(\u3042\u308b\u304d\u304b\u305f) fa\u00e7on de marcher, d\u00e9marche"
+    ],
+    "\u30ab\u30c3\u30d7": [
+        3,
+        1,
+        "(\u304b\u3063\u3077) tasse, gobelet"
+    ],
+    "\u5bb6\u5ead": [
+        -1,
+        1,
+        "(\u304b\u3066\u3044) foyer, m\u00e9nage"
+    ],
+    "\u5f7c\u5973": [
+        10,
+        3,
+        "(\u304b\u306e\u3058\u3087) petite amie, elle"
+    ],
+    "\u5f7c": [
+        1,
+        1,
+        "(\u304b\u308c) lui, il"
+    ],
+    "\u8ab0": [
+        12,
+        3,
+        "(\u3060\u308c) qui"
+    ],
+    "\u6b73": [
+        3,
+        1,
+        "(\u3055\u3044) ans"
+    ],
+    "\u7559\u5b66\u751f": [
+        13,
+        3,
+        "(\u308a\u3085\u3046\u304c\u304f\u305b\u3044) \u00e9tudiant \u00e9tranger"
+    ],
+    "\u5b66\u751f\u8a3c": [
+        3,
+        1,
+        "(\u304c\u304f\u305b\u3044\u3057\u3087\u3046) carte d'\u00e9tudiant"
+    ],
+    "\u9055\u3044": [
+        -1,
+        1,
+        "(\u3061\u304c\u3044) diff\u00e9rence, erreur"
+    ],
+    "\u5144\u5f1f": [
+        5,
+        1,
+        "(\u304d\u3087\u3046\u3060\u3044) fr\u00e8res, fratrie (fr\u00e8res et soeurs)"
+    ],
+    "\u59c9\u59b9": [
+        2,
+        1,
+        "(\u3057\u307e\u3044) soeurs"
+    ],
+    "\u4e21\u89aa": [
+        2,
+        1,
+        "(\u308a\u3087\u3046\u3057\u3093) parents"
+    ],
+    "\u5b50\u4f9b": [
+        4,
+        1,
+        "(\u3053\u3069\u3082) enfant"
+    ],
+    "\u6816\u3080": [
+        4,
+        1,
+        "(\u3059\u3080) habiter, r\u00e9sider, vivre ensemble (couple)"
+    ],
+    "\u51fa\u8eab": [
+        3,
+        1,
+        "(\u3057\u3085\u3063\u3057\u3093) origine, lieu de naissance"
+    ],
+    "\u51b7\u305f\u3044": [
+        -1,
+        1,
+        "(\u3064\u3081\u305f\u3044) froid, frais (toucher)"
+    ],
+    "\u5bd2\u3044": [
+        2,
+        1,
+        "(\u3055\u3080\u3044) froid (sensation)"
+    ],
+    "\u597d\u304d": [
+        2,
+        1,
+        "(\u3059\u304d) aim\u00e9, appr\u00e9ci\u00e9"
+    ],
+    "\u8f9b\u3044": [
+        2,
+        1,
+        "(\u304b\u3089\u3044) piquant"
+    ],
+    "\u98df\u5802": [
+        -2,
+        1,
+        "(\u3057\u3087\u304f\u3069\u3046) salle \u00e0 manger"
+    ],
+    "\u5ec9\u3044": [
+        -1,
+        1,
+        "(\u3084\u3059\u3044) bon march\u00e9, pas cher"
+    ],
+    "\u96a3": [
+        1,
+        1,
+        "(\u3068\u306a\u308a) voisin, \u00e0 c\u00f4t\u00e9"
+    ],
+    "\u6628\u65e5": [
+        10,
+        3,
+        "(\u304d\u306e\u3046) hier"
+    ],
+    "\u52c9\u5f37\u3059\u308b": [
+        3,
+        1,
+        "(\u3079\u3093\u304d\u3087\u3046\u3059\u308b) \u00e9tudier"
+    ],
+    "\u4ed5\u4e8b": [
+        3,
+        1,
+        "(\u3057\u3054\u3068) travail, t\u00e2che, m\u00e9tier"
+    ],
+    "\u98df\u6b32": [
+        -2,
+        1,
+        "(\u3057\u3087\u304f\u3088\u304f) app\u00e9tit"
+    ],
+    "\u98df\u8cbb": [
+        1,
+        1,
+        "(\u3057\u3087\u304f\u3072) frais de nourriture, d\u00e9pense alimentaire"
+    ],
+    "\u98df\u7269": [
+        -2,
+        1,
+        "(\u3057\u3087\u304f\u3082\u3064) aliment"
+    ],
+    "\u5b89\u3044": [
+        3,
+        1,
+        "(\u3084\u3059\u3044) pas cher, bon march\u00e9 (prix)"
+    ],
+    "\u6669\u5fa1\u98ef": [
+        1,
+        1,
+        "(\u3070\u3093\u3054\u306f\u3093) d\u00eener"
+    ],
+    "\u5acc\u3044": [
+        4,
+        1,
+        "(\u304d\u3089\u3044) d\u00e9test\u00e9"
+    ],
+    "\u4e16": [
+        -1,
+        1,
+        "(\u3088) monde, soci\u00e9t\u00e9, \u00e9poque"
+    ],
+    "\u5168\u3066": [
+        2,
+        1,
+        "(\u3059\u3079\u3066) tout, compl\u00e8tement, enti\u00e8rement"
+    ],
+    "\u6b7b\u306b": [
+        1,
+        1,
+        "(\u3057\u306b) mourant, mort, inutile; maudit"
+    ],
+    "\u653e\u3064": [
+        -1,
+        1,
+        "(\u306f\u306a\u3064) lib\u00e9rer, l\u00e2cher, \u00e9mettre, r\u00e9pandre"
+    ],
+    "\u5168\u4e16\u754c": [
+        0,
+        1,
+        "(\u305c\u3093\u305b\u304b\u3044) le monde entier"
+    ],
+    "\u4e16\u754c": [
+        5,
+        1,
+        "(\u305b\u304b\u3044) monde, univers"
+    ],
+    "\u4eba\u9593": [
+        2,
+        1,
+        "(\u306b\u3093\u3052\u3093) \u00eatre humain"
+    ],
+    "\u6e2f": [
+        -2,
+        1,
+        "(\u307f\u306a\u3068) port"
+    ],
+    "\u6751": [
+        5,
+        1,
+        "(\u3080\u3089) village"
+    ],
+    "\u50cd\u304f": [
+        -2,
+        1,
+        "(\u306f\u305f\u3089\u304f) travailler"
+    ],
+    "\u50cd\u304d\u3059\u304e": [
+        -1,
+        1,
+        "(\u306f\u305f\u3089\u304d\u3059\u304e) exc\u00e8s de travail, surmenage"
+    ],
+    "\u50cd\u304d": [
+        3,
+        1,
+        "(\u306f\u305f\u3089\u304d) action, fonctionnement, capacit\u00e9"
+    ],
+    "\u6642\u9593": [
+        4,
+        1,
+        "(\u3058\u304b\u3093) temps, heure"
+    ],
+    "\u51fa\u767a": [
+        -1,
+        1,
+        "(\u3057\u3085\u3063\u3071\u3064) d\u00e9part"
+    ],
+    "\u554f\u984c": [
+        -1,
+        1,
+        "(\u3082\u3093\u3060\u3044) probl\u00e8me"
+    ],
+    "\u8239": [
+        2,
+        1,
+        "(\u30bb\u30f3 | \u3075\u306d) bateau"
+    ],
+    "\u505c\u6cca": [
+        -1,
+        1,
+        "(\u3066\u3044\u306f\u304f) mouillage, ancrage"
+    ],
+    "\u89d2": [
+        -2,
+        1,
+        "(\u304b\u3069) coin, angle"
+    ],
+    "\u9784": [
+        -1,
+        1,
+        "(\u304b\u3070\u3093) sac, sac \u00e0 main"
+    ],
+    "\u82b1\u74f6": [
+        2,
+        1,
+        "(\u304b\u3073\u3093) vase"
+    ],
+    "\u7d19": [
+        -2,
+        1,
+        "(\u304b\u307f, \u3057) papier"
+    ],
+    "\u30ab\u30e1\u30e9": [
+        5,
+        1,
+        "appareil photo"
+    ],
+    "\u6708\u66dc\u65e5": [
+        3,
+        1,
+        "(\u3052\u3064\u3088\u3046\u3073) lundi"
+    ],
+    "\u706b\u66dc\u65e5": [
+        10,
+        3,
+        "(\u304b\u3088\u3046\u3073) mardi"
+    ],
+    "\u6c34\u66dc\u65e5": [
+        10,
+        3,
+        "(\u3059\u3044\u3088\u3046\u3073) mercredi"
+    ],
+    "\u6728\u66dc\u65e5": [
+        1,
+        1,
+        "(\u3082\u304f\u3088\u3046\u3073) jeudi"
+    ],
+    "\u91d1\u66dc\u65e5": [
+        3,
+        1,
+        "(\u304d\u3093\u3088\u3046\u3073) vendredi"
+    ],
+    "\u4f53": [
+        1,
+        1,
+        "(\u304b\u3089\u3060, \u3066\u3044) corps, apparence/air"
+    ],
+    "\u501f\u308a\u308b": [
+        -2,
+        1,
+        "(\u304b\u308a\u308b) louer, emprunter"
+    ],
+    "\u7c21\u5358": [
+        0,
+        1,
+        "(\u304b\u3093\u305f\u3093) facile, simple"
+    ],
+    "\u30ab\u30ec\u30fc": [
+        2,
+        1,
+        "(\u304b\u308c\u3048) curry"
+    ],
+    "\u66a6": [
+        0,
+        1,
+        "(\u3053\u3088\u307f) calendrier"
+    ],
+    "\u5ddd/\u6cb3": [
+        3,
+        1,
+        "(\u304b\u308f) rivi\u00e8re"
+    ],
+    "\u53ef\u611b\u3044": [
+        -2,
+        1,
+        "(\u304b\u308f\u3044\u3044) mignon, adorable"
+    ],
+    "\u6f22\u5b57": [
+        -1,
+        1,
+        "(\u304b\u3093\u3058) kanji"
+    ],
+    "\u6d88\u3048\u308b": [
+        8,
+        2,
+        "(\u304d\u3048\u308b) dispara\u00eetre"
+    ],
+    "\u30ae\u30bf\u30fc": [
+        4,
+        1,
+        "(\u304e\u305f\u3042) guitare"
+    ],
+    "\u6c5a\u3044": [
+        -2,
+        1,
+        "(\u304d\u305f\u306a\u3044) sale, d\u00e9go\u00fbtant, vulgaire"
+    ],
+    "\u55ab\u8336\u5e97": [
+        -1,
+        1,
+        "(\u304d\u3063\u3055\u3066\u3093) salon de th\u00e9, caf\u00e9, buvette"
+    ],
+    "\u5207\u624b": [
+        -2,
+        1,
+        "(\u304d\u3063\u3066) timbre"
+    ],
+    "\u5207\u7b26": [
+        -2,
+        1,
+        "(\u304d\u3063\u3077) ticket, billet"
+    ],
+    "\u4eca\u65e5": [
+        2,
+        1,
+        "(\u304d\u3087\u3046) aujourd'hui"
+    ],
+    "\u6559\u5ba4": [
+        0,
+        1,
+        "(\u304d\u3087\u3046\u3057\u3064) salle de classe"
+    ],
+    "\u6628\u5e74|\u53bb\u5e74": [
+        0,
+        1,
+        "(\u3055\u304f\u306d\u3093|\u304d\u3087\u306d\u3093) l'ann\u00e9e derni\u00e8re (formel/normal)"
+    ],
+    "\u5207\u308b": [
+        -2,
+        1,
+        "(\u304d\u308b) couper, raccrocher"
+    ],
+    "\u7740\u308b": [
+        -2,
+        1,
+        "(\u304d\u308b) porter (un v\u00eatement), se v\u00eatir, enfiler; supporter"
+    ],
+    "\u7dba\u9e97": [
+        -2,
+        1,
+        "(\u304d\u308c\u3044) joli (fille), beau/belle, \u00e9l\u00e9gant; propre"
+    ],
+    "\u9280\u884c": [
+        -2,
+        1,
+        "(\u304e\u3093\u3053\u3046) banque"
+    ],
+    "\u30ad\u30ed/\u30ad\u30ed\u30e1\u30fc\u30c8\u30eb": [
+        3,
+        1,
+        "kilom\u00e8tre (km)"
+    ],
+    "\u697d": [
+        -2,
+        1,
+        "(\u3089\u304f) confortable, facile"
+    ],
+    "\u97f3": [
+        0,
+        1,
+        "(\u304a\u3068) bruit, son"
+    ],
+    "\u6a2a": [
+        -2,
+        1,
+        "(\u3088\u3053) \u00e0 c\u00f4t\u00e9 de, horizontal"
+    ],
+    "\u672c\u68da": [
+        -2,
+        1,
+        "(\u307b\u3093\u3060\u306a) \u00e9tag\u00e8re, biblioth\u00e8que"
+    ],
+    "\u85ac": [
+        2,
+        1,
+        "(\u304f\u3059\u308a) m\u00e9dicament, drogue"
+    ],
+    "\u85ac\u3092\u98f2\u3080": [
+        1,
+        1,
+        "(\u304f\u3059\u308a \u3092 \u306e\u3080) prendre un m\u00e9dicament (voie orale)"
+    ],
+    "\u85ac\u3092\u3064\u3051\u308b": [
+        0,
+        1,
+        "(\u304f\u3059\u308a \u3092 \u3064\u3051\u308b) = appliquer un m\u00e9dicament (pommade, spray, etc.)"
+    ],
+    "\u4e0b\u3055\u3044": [
+        4,
+        1,
+        "(\u304f\u3060\u3055\u3044) s'il-vous-pla\u00eet"
+    ],
+    "\u5ea7\u3063\u3066\u4e0b\u3055\u3044": [
+        1,
+        1,
+        "(\u3059\u308f\u3063\u3066 \u304f\u3060\u3055\u3044) Asseyez-vous s'il vous plait!"
+    ],
+    "\u679c\u7269": [
+        2,
+        1,
+        "(\u304f\u3060\u3082\u306e) fruit"
+    ],
+    "\u679c\u7269\u5c4b": [
+        3,
+        1,
+        "(\u304f\u3060\u3082\u306e\u3084) marchand de fruits"
+    ],
+    "\u9774": [
+        0,
+        1,
+        "(\u304f\u3064) chaussure"
+    ],
+    "\u9774\u4e0b": [
+        3,
+        1,
+        "(\u304f\u3064\u3057\u305f) chaussettes"
+    ],
+    "\u56fd": [
+        3,
+        1,
+        "(\u304f\u306b | \u3053\u304f) pays, province"
+    ],
+    "\u66c7\u308a": [
+        2,
+        1,
+        "(\u304f\u3082\u308a) nuageux"
+    ],
+    "\u66c7\u308b": [
+        5,
+        1,
+        "(\u304f\u3082\u308b) se couvrir (nuages, bu\u00e9e, condensation), s'embuer, s'assombrir; devenir sombre (ciel, humeur)"
+    ],
+    "\u6697\u3044": [
+        4,
+        1,
+        "(\u304f\u3089\u3044) sombre"
+    ],
+    "\u30af\u30e9\u30b9": [
+        4,
+        1,
+        "classe"
+    ],
+    "\u30b0\u30e9\u30e0": [
+        4,
+        1,
+        "gramme"
+    ],
+    "\u6765\u308b": [
+        4,
+        1,
+        "(\u304f\u308b) venir, commencer (je commence \u00e0 comprendre le japonais)"
+    ],
+    "\u9ed2\u3044": [
+        5,
+        1,
+        "(\u304f\u308d\u3044) noir"
+    ],
+    "\u9ed2\u9aea": [
+        -1,
+        1,
+        "(\u304f\u308d\u304b\u307f) cheveux noirs"
+    ],
+    "\u9ed2\u5e2f": [
+        2,
+        1,
+        "(\u304f\u308d\u304a\u3073) ceinture noire"
+    ],
+    "\u8b66\u5b98": [
+        2,
+        1,
+        "(\u3051\u3044\u304b\u3093) policier"
+    ],
+    "\u4eca\u671d": [
+        7,
+        2,
+        "(\u3051\u3055) ce matin"
+    ],
+    "\u6d88\u3059": [
+        0,
+        1,
+        "(\u3051\u3059) dispara\u00eetre, effacer, gommer, \u00e9teindre"
+    ],
+    "\u7d50\u69cb": [
+        1,
+        1,
+        "(\u3051\u3063\u3053\u3046) parfait, excellent, suffisant"
+    ],
+    "\u7d50\u5a5a": [
+        2,
+        1,
+        "(\u3051\u3063\u3053\u3093) mariage"
+    ],
+    "\u4e5d\u65e5": [
+        1,
+        1,
+        "(\u3053\u3053\u306e\u304b) neuvi\u00e8me jour"
+    ],
+    "\u7384\u95a2": [
+        -2,
+        1,
+        "(\u3052\u3093\u304b\u3093) entr\u00e9e, hall d'entr\u00e9e, vestibule"
+    ],
+    "\u5143\u6c17": [
+        1,
+        1,
+        "(\u3052\u3093\u304d) sant\u00e9"
+    ],
+    "\u516c\u5712": [
+        -1,
+        1,
+        "(\u3053\u3046\u3048\u3093) parc"
+    ],
+    "\u4ea4\u5dee\u70b9": [
+        -2,
+        1,
+        "(\u3053\u3046\u3055\u3066\u3093) croisement, carrefour"
+    ],
+    "\u7d05\u8336": [
+        -2,
+        1,
+        "(\u3053\u3046\u3061\u3083) th\u00e9 noir"
+    ],
+    "\u4ea4\u756a": [
+        0,
+        1,
+        "(\u3053\u3046\u3070\u3093) commissariat"
+    ],
+    "\u58f0": [
+        3,
+        1,
+        "(\u3053\u3048) voix"
+    ],
+    "\u30b3\u30fc\u30c8": [
+        1,
+        1,
+        "manteau, court de tennis"
+    ],
+    "\u7b54\u3048\u308b": [
+        -2,
+        1,
+        "(\u3053\u305f\u3048\u308b) r\u00e9pondre"
+    ],
+    "\u4eca\u5e74": [
+        2,
+        1,
+        "(\u3053\u3068\u3057) cette ann\u00e9e"
+    ],
+    "\u8a00\u8449": [
+        2,
+        1,
+        "(\u3053\u3068\u3070) mot, langage, parole"
+    ],
+    "\u56f0\u308b": [
+        -2,
+        1,
+        "(\u3053\u307e\u308b) \u00eatre embarrass\u00e9, g\u00ean\u00e9, ennuy\u00e9 par une situation"
+    ],
+    "\u56f0\u308a\u9854": [
+        -1,
+        1,
+        "(\u3053\u307e\u308a\u304c\u304a) air pr\u00e9occup\u00e9, inquiet"
+    ],
+    "\u4eca\u6708": [
+        2,
+        1,
+        "(\u3053\u3093\u3052\u3064) ce mois-ci"
+    ],
+    "\u4eca\u6708\u672b": [
+        0,
+        1,
+        "(\u3053\u3093\u3052\u3064\u307e\u3064) fin de ce mois-ci"
+    ],
+    "\u4eca\u9031": [
+        2,
+        1,
+        "(\u3053\u3093\u3057\u3085\u3046) cette semaine"
+    ],
+    "\u4eca\u6669": [
+        2,
+        1,
+        "(\u3053\u3093\u3070\u3093) ce soir"
+    ],
+    "\u8ca1\u5e03": [
+        0,
+        1,
+        "(\u3055\u3044\u3075) portefeuille, porte-monnaie"
+    ],
+    "\u54b2\u304f": [
+        -1,
+        1,
+        "(\u3055\u304f) fleurir"
+    ],
+    "\u4f5c\u6587": [
+        1,
+        1,
+        "(\u3055\u304f\u3076\u3093) composition \u00e9crite, \u00e9criture, r\u00e9daction, dissertation"
+    ],
+    "\u5dee\u3059": [
+        -2,
+        1,
+        "(\u3055\u3059) entrer, ins\u00e9rer (une carte bancaire par exemple), tendre la main, sortir son \u00e9p\u00e9e, un parapluie, briller ..."
+    ],
+    "\u96d1\u8a8c": [
+        2,
+        1,
+        "(\u3056\u3063\u3057) magazine"
+    ],
+    "\u7802\u7cd6": [
+        12,
+        3,
+        "(\u3055\u3068\u3046) sucre"
+    ],
+    "\u6563\u6b69": [
+        5,
+        1,
+        "(\u3055\u3093\u307d) promenade, balade"
+    ],
+    "\u6563\u6b69\u3059\u308b": [
+        2,
+        1,
+        "(\u3055\u3093\u307d\u3059\u308b) se promener, se balader"
+    ],
+    "\u5869": [
+        16,
+        3,
+        "(\u3057\u304a) sel, go\u00fbt sal\u00e9, \u00e9preuve"
+    ],
+    "\u3057\u304b\u3057": [
+        12,
+        3,
+        "cependant"
+    ],
+    "\u8f9e\u66f8 | \u5b57\u5f15": [
+        3,
+        1,
+        "(\u3058\u3057\u3087 | \u3058\u3073\u304d) dictionnaire"
+    ],
+    "\u9759\u304b": [
+        4,
+        1,
+        "(\u3057\u305a\u304b) calme, silencieux"
+    ],
+    "\u9759\u304b\u306b": [
+        13,
+        3,
+        "(\u3057\u305a\u304b\u306b) silencieusement, calmement; Silence !"
+    ],
+    "\u8cea\u554f": [
+        3,
+        1,
+        "(\u3057\u3064\u3082\u3093) question"
+    ],
+    "\u8cea\u554f\u3059\u308b": [
+        4,
+        1,
+        "(\u3057\u3064\u3082\u3093\u3059\u308b) interroger, questionner"
+    ],
+    "\u81ea\u8ee2\u8eca": [
+        1,
+        1,
+        "(\u3058\u3066\u3093\u3057\u3083) v\u00e9lo"
+    ],
+    "\u81ea\u52d5\u8eca": [
+        3,
+        1,
+        "(\u3058\u3069\u3046\u3057\u3083) automobile, voiture"
+    ],
+    "\u81ea\u5206": [
+        1,
+        1,
+        "(\u3058\u3076\u3093) soi, soi-m\u00eame"
+    ],
+    "\u9589\u307e\u308b": [
+        3,
+        1,
+        "(\u3057\u307e\u308b) se fermer, \u00eatre fermer"
+    ],
+    "\u9589\u3081\u308b": [
+        11,
+        3,
+        "(\u3057\u3081\u308b) fermer"
+    ],
+    "\u7de0\u3081\u308b": [
+        -1,
+        1,
+        "(\u3057\u3081\u308b) lier"
+    ],
+    "\u5199\u771f": [
+        4,
+        1,
+        "(\u3057\u3083\u3057\u3093) photographie, photo"
+    ],
+    "\u30b7\u30e3\u30c4": [
+        0,
+        1,
+        "(\u3057\u3083\u3064) chemise"
+    ],
+    "\u30b7\u30e3\u30ef\u30fc": [
+        5,
+        1,
+        "(\u3057\u3083\u308f\u3042) douche"
+    ],
+    "\u6388\u696d": [
+        -1,
+        1,
+        "(\u3058\u3085\u304e\u3087\u3046) cours, classe"
+    ],
+    "\u7a0b": [
+        2,
+        1,
+        "(\u307b\u3069) degr\u00e9, mesure; indication chiffr\u00e9e + \u307b\u3069 = environ; verbe neutre + \u307b\u3069 = \u00e0 tel point que"
+    ],
+    "\u5225": [
+        3,
+        1,
+        "(\u3079\u3064) diff\u00e9remment, \u00e0 part, un autre, (mettre) de c\u00f4t\u00e9"
+    ],
+    "\u5168\u304f": [
+        10,
+        3,
+        "(\u307e\u3063\u305f\u304f) compl\u00e8tement, vraiment, enti\u00e8rement; bon sang, c'est pas vrai"
+    ],
+    "\u8239\u9577": [
+        10,
+        3,
+        "(\u305b\u3093\u3061\u3087\u3046) capitaine (d'un navire) ; longueur d'un bateau"
+    ],
+    "\u5bbf\u984c": [
+        -2,
+        1,
+        "(\u3057\u3085\u304f\u3060\u3044) devoirs, exercices"
+    ],
+    "\u4e0a\u624b": [
+        5,
+        1,
+        "(\u3058\u3087\u3046\u305a) adroit, dou\u00e9, habile; flatterie"
+    ],
+    "\u4e08": [
+        4,
+        1,
+        "(\u3058\u3087\u3046) j\u00f4, unit\u00e9 de mesure : environ 3 m\u00e8tres"
+    ],
+    "\u4e08\u592b": [
+        2,
+        1,
+        "(\u3058\u3087\u3046\u3075) homme fort, bel homme"
+    ],
+    "\u6b63\u6cb9": [
+        -2,
+        1,
+        "(\u3057\u3087\u3046\u3086) sauce soja"
+    ],
+    "\u77e5\u308b|\u8b58\u308b": [
+        5,
+        1,
+        "(\u3057\u308b) savoir, conna\u00eetre"
+    ],
+    "\u795e\u306e\u307f\u305e\u77e5\u308b": [
+        5,
+        1,
+        "(\u304b\u307f\u306e\u307f\u305e\u3057\u308b) Dieu seul le sait (\u305e sert \u00e0 renforcer l'expression)"
+    ],
+    "\u65b0\u805e": [
+        3,
+        1,
+        "(\u3057\u3093\u3076\u3093) journal"
+    ],
+    "\u5438\u3046": [
+        2,
+        1,
+        "(\u3059\u3046) aspirer, absorber, fumer"
+    ],
+    "\u30b9\u30ab\u30fc\u30c8": [
+        0,
+        1,
+        "jupe (vient de skirt)"
+    ],
+    "\u5c11\u306a\u3044": [
+        11,
+        3,
+        "(\u3059\u304f\u306a\u3044) peu"
+    ],
+    "\u5c11\u306a\u304f\u3068\u3082": [
+        2,
+        1,
+        "(\u3059\u304f\u306a\u304f\u3068\u3082) au moins, au minimum"
+    ],
+    "\u76f4\u3050\u306b": [
+        2,
+        1,
+        "(\u3059\u3050\u306b) imm\u00e9diatement"
+    ],
+    "\u5c11\u3057": [
+        1,
+        1,
+        "(\u3059\u3053\u3057) un peu"
+    ],
+    "\u4eac": [
+        0,
+        1,
+        "(\u307f\u3084\u3053) capitale; 10 puissance 16"
+    ],
+    "\u4eac\u90fd": [
+        12,
+        3,
+        "(\u304d\u3087\u3046\u3068) Kyoto"
+    ],
+    "\u4eac\u5927 (abr\u00e9viation de \u4eac\u90fd\u5927\u5b66)": [
+        11,
+        3,
+        "(\u304d\u3087\u3046\u3060\u3044) universit\u00e9 (prestigieuse) de Kyoto"
+    ],
+    "\u6771\u4eac": [
+        4,
+        1,
+        "(\u3068\u3046\u304d\u3087\u3046) Tokyo"
+    ],
+    "\u30b9\u30de\u30db": [
+        0,
+        1,
+        "smartphone"
+    ],
+    "\u8cd1\u3084\u304b": [
+        0,
+        1,
+        "(\u306b\u304e\u3084\u304b) anim\u00e9, bruyant"
+    ],
+    "\u65c5\u884c": [
+        -1,
+        1,
+        "(\u308a\u3087\u3053\u3046) voyage, excursion"
+    ],
+    "\u6dbc\u3057\u3044": [
+        2,
+        1,
+        "(\u3059\u305a\u3057\u3044) rafraichissant, frais, cool; clair, brillant; imperturbable (visage)"
+    ],
+    "\u30b9\u30c8\u30fc\u30d6": [
+        -2,
+        1,
+        "appareil de chauffage transportable (vient de stove)"
+    ],
+    "\u30b9\u30d7\u30fc\u30f3": [
+        5,
+        1,
+        "cuilli\u00e8re (vient de spoon)"
+    ],
+    "\u30b9\u30dd\u30fc\u30c4": [
+        11,
+        3,
+        "sport"
+    ],
+    "\u30ba\u30dc\u30f3": [
+        -1,
+        1,
+        "(\u305a\u307c\u3093) pantalon"
+    ],
+    "\u4f4f\u3080": [
+        4,
+        1,
+        "(\u3059\u3080) vivre, habiter, r\u00e9sider"
+    ],
+    "\u30b9\u30ea\u30c3\u30d1": [
+        3,
+        1,
+        "chaussons, pantoufles"
+    ],
+    "\u3059\u308b (rarement \u70ba\u308b)": [
+        11,
+        3,
+        "faire"
+    ],
+    "\u5ea7\u308b": [
+        3,
+        1,
+        "(\u3059\u308f\u308b) s'asseoir"
+    ],
+    "\u80cc\u304c\u9ad8\u3044": [
+        3,
+        1,
+        "(\u305b\u304c\u305f\u304b\u3044) personne de grande taille"
+    ],
+    "\u80cc\u304c\u4f4e\u3044": [
+        -2,
+        1,
+        "(\u305b\u304c\u3072\u304f\u3044) personne de petite taille"
+    ],
+    "\u751f\u5f92": [
+        -2,
+        1,
+        "(\u305b\u3044\u3068) \u00e9l\u00e8ve (soit petit jusqu'au lyc\u00e9e, soit en rapport avec le suivi d'un \u00e9l\u00e8ve)"
+    ],
+    "\u7bc0\u96fb": [
+        1,
+        1,
+        "(\u305b\u3064\u3067\u3093) \u00e9conomie d'\u00e9lectricit\u00e9"
+    ],
+    "\u7bc0\u6c34": [
+        0,
+        1,
+        "(\u305b\u3063\u3059\u3044) \u00e9conomies d'eau"
+    ],
+    "\u7d4c\u6e08": [
+        -2,
+        1,
+        "(\u3051\u3044\u3056\u3044) \u00e9conomie (la science)"
+    ],
+    "\u72ed\u3044": [
+        -2,
+        1,
+        "(\u305b\u307e\u3044) \u00e9troit"
+    ],
+    "\u5148\u6708": [
+        0,
+        1,
+        "(\u305b\u3093\u3052\u3064) le mois dernier"
+    ],
+    "\u5148\u9031": [
+        1,
+        1,
+        "(\u305b\u3093\u3057\u3085\u3046) la semaine derni\u00e8re"
+    ],
+    "\u5148\u751f": [
+        3,
+        1,
+        "(\u305b\u3093\u305b\u3044) enseignant, m\u00e9decin, ma\u00eetre"
+    ],
+    "\u9031\u672b": [
+        5,
+        1,
+        "(\u3057\u3085\u3046\u307e\u3064) weekend, fin de la semaine"
+    ],
+    "\u65e5\u66dc\u65e5": [
+        5,
+        1,
+        "(\u306b\u3061\u3088\u3046\u3073) dimanche"
+    ],
+    "\u53e4\u3044": [
+        11,
+        3,
+        "(\u3075\u308b\u3044) vieux, ancien (se dit des choses inanim\u00e9es)"
+    ],
+    "\u5f01\u8b77\u58eb": [
+        1,
+        1,
+        "(\u3079\u3093\u3054\u3057) avocat (juriste)"
+    ],
+    "\u982d\u304c\u3044\u3044": [
+        5,
+        1,
+        "(\u3042\u305f\u307e\u304c\u3044\u3044) intelligent"
+    ],
+    "\u606f\u5b50": [
+        1,
+        1,
+        "(\u3080\u3059\u3053) fils"
+    ],
+    "\u770b\u8b77\u58eb": [
+        3,
+        1,
+        "(\u304b\u3093\u3054\u3057) infirmier/\u00e8re"
+    ],
+    "\u7ae5\u753b | \u52d5\u753b": [
+        4,
+        1,
+        "(\u3069\u3046\u304c) vid\u00e9o, animation"
+    ],
+    "\u512a\u3057\u3044": [
+        4,
+        1,
+        "(\u3084\u3055\u3057\u3044) gentil, aimable, gr\u00e2cieux, tendre, doux"
+    ],
+    "\u6b32\u3057\u3044": [
+        2,
+        1,
+        "(\u307b\u3057\u3044) d\u00e9sir\u00e9, voulu"
+    ],
+    "\u6c41": [
+        -2,
+        1,
+        "(\u3057\u308b) bouillon, soupe, jus (soja par exemple)"
+    ],
+    "\u6d17\u6fef": [
+        1,
+        1,
+        "(\u305b\u3093\u305f\u304f) lessive, lavage"
+    ],
+    "\u5168\u90e8": [
+        2,
+        1,
+        "(\u305c\u3093\u3076) tout, totalit\u00e9"
+    ],
+    "\u6383\u9664": [
+        -1,
+        1,
+        "(\u305d\u3046\u3058) m\u00e9nage, nettoyage, balayage"
+    ],
+    "\u305d\u3046\u3057\u3066/\u305d\u3057\u3066": [
+        11,
+        3,
+        "et"
+    ],
+    "\u305d\u3053": [
+        13,
+        3,
+        "l\u00e0"
+    ],
+    "\u305d\u306e": [
+        10,
+        3,
+        "ce"
+    ],
+    "\u305d\u3070": [
+        -2,
+        1,
+        "pr\u00e8s, \u00e0 c\u00f4t\u00e9 de"
+    ],
+    "\u305d\u308c": [
+        10,
+        3,
+        "cela"
+    ],
+    "\u305d\u308c\u304b\u3089": [
+        4,
+        1,
+        "apr\u00e8s \u00e7a, ensuite, et puis..."
+    ],
+    "\u305d\u308c\u3067\u306f": [
+        5,
+        1,
+        "alors, dans ce cas"
+    ],
+    "\u5927\u5b66": [
+        12,
+        3,
+        "(\u3060\u3044\u304c\u304f) universit\u00e9"
+    ],
+    "\u5927\u4f7f\u9928": [
+        3,
+        1,
+        "(\u305f\u3044\u3057\u304b\u3093) ambassade"
+    ],
+    "\u5927\u4e08\u592b": [
+        11,
+        3,
+        "(\u3060\u3044\u3058\u3087\u3046\u3076) sauf, ok, assur\u00e9, solide (+ desu => tout va bien, pas de soucis)"
+    ],
+    "\u5927\u597d\u304d": [
+        5,
+        1,
+        "(\u3060\u3044\u3059\u304d) ador\u00e9/adorer"
+    ],
+    "\u5927\u5207": [
+        -2,
+        1,
+        "(\u305f\u3044\u305b\u3064) important, de valeur"
+    ],
+    "\u6ca2\u5c71": [
+        -2,
+        1,
+        "(\u305f\u304f\u3055\u3093) beaucoup"
+    ],
+    "\u30bf\u30af\u30b7\u30fc": [
+        12,
+        3,
+        "taxi"
+    ],
+    "\u51fa\u3059": [
+        4,
+        1,
+        "(\u3060\u3059) faire sortir, envoyer, produire, pr\u00e9senter"
+    ],
+    "\u304a\u91d1\u3092\u51fa\u3059": [
+        3,
+        1,
+        "(\u304a\u304b\u306d\u3092\u3060\u3059) payer"
+    ],
+    "\u7acb\u3064": [
+        1,
+        1,
+        "(\u305f\u3064) se lever, se mettre debout"
+    ],
+    "\u6642\u3005|\u6642\u6642| \u6642\u3069\u304d": [
+        11,
+        3,
+        "(\u3068\u304d\u3069\u304d) de temps en temps, quelques fois"
+    ],
+    "\u8ca1\u5b9d": [
+        4,
+        1,
+        "(\u3056\u3044\u307b\u3046) tr\u00e9sor, richesse"
+    ],
+    "\u63a2\u3059": [
+        3,
+        1,
+        "(\u3055\u304c\u3059) chercher"
+    ],
+    "\u6642\u4ee3": [
+        4,
+        1,
+        "(\u3058\u3060\u3044) p\u00e9riode"
+    ],
+    "\u5192\u967a": [
+        2,
+        1,
+        "(\u307c\u3046\u3051\u3093) aventure, risque"
+    ],
+    "\u5cf6": [
+        2,
+        1,
+        "(\u3057\u307e) \u00eele"
+    ],
+    "\u601d\u3046": [
+        -1,
+        1,
+        "(\u304a\u3082\u3046) penser, croire, imaginer"
+    ],
+    "\u8338 | \u8548 | \u83cc": [
+        -2,
+        1,
+        "(\u305f\u3051) champignon"
+    ],
+    "\u86c7": [
+        3,
+        1,
+        "(\u3078\u3073) serpent (on dit parfois \u3058\u3083 pour parler d'un gros serpent ou orochi/daija)"
+    ],
+    "\u7570\u4e16\u754c": [
+        1,
+        1,
+        "(\u3044\u305b\u304b\u3044) monde parall\u00e8le, monde alternatif"
+    ],
+    "\u518a": [
+        1,
+        1,
+        "(\u3055\u3064) compteur (pour les manga, revues, cahiers)"
+    ],
+    "\u95a2\u4fc2": [
+        -2,
+        1,
+        "(\u304b\u3093\u3051\u3044) relation, rapport (n\u00e9gativement : aucun rapport, rien \u00e0 voir)"
+    ],
+    "\u5bff\u53f8": [
+        4,
+        1,
+        "(\u3059\u3057) sushi"
+    ],
+    "\u5927\u5909": [
+        10,
+        3,
+        "(\u305f\u3044\u3078\u3093) tr\u00e8s, difficile"
+    ],
+    "\u9054": [
+        1,
+        1,
+        "(\u305f\u3061) (parfois dachi) suffixe pour indiquer le pluriel"
+    ],
+    "\u4ffa": [
+        0,
+        1,
+        "(\u304a\u308c) je (masculin, avec une certaine pr\u00e9tention)"
+    ],
+    "\u6b21": [
+        2,
+        1,
+        "(\u3064\u304e) suivant, prochain"
+    ],
+    "\u6c17\u6301\u3061": [
+        7,
+        2,
+        "(\u304d\u3082\u3061) sentiment, sensation, \u00e9motion"
+    ],
+    "\u6301\u3064": [
+        3,
+        1,
+        "(\u3082\u3064) tenir, avoir, poss\u00e9der"
+    ],
+    "\u5f85\u3064": [
+        3,
+        1,
+        "(\u307e\u3064) attendre"
+    ],
+    "\u5c71\u8cca": [
+        2,
+        1,
+        "(\u3055\u3093\u305e\u304f) bandit, brigant des montagnes"
+    ],
+    "\u52a9\u304f": [
+        2,
+        1,
+        "(\u305f\u3059\u304f) aider, secourir"
+    ],
+    "\u8a31\u3059": [
+        -2,
+        1,
+        "(\u3086\u308b\u3059) pardonner, excuser; permettre, autoriser"
+    ],
+    "\u983c\u3080": [
+        1,
+        1,
+        "(\u305f\u306e\u3080) demander, prier, faire confiance, confier"
+    ],
+    "\u5efa\u7269": [
+        -1,
+        1,
+        "(\u305f\u3066\u3082\u306e) immeuble, b\u00e2timent"
+    ],
+    "\u697d\u3057\u3044": [
+        5,
+        1,
+        "(\u305f\u306e\u3057\u3044) agr\u00e9able, amusant, joyeux"
+    ],
+    "\u591a\u5206": [
+        4,
+        1,
+        "(\u305f\u3076\u3093) peut-\u00eatre, probablement; beaucoup"
+    ],
+    "\u98df\u3079\u7269": [
+        1,
+        1,
+        "(\u305f\u3079\u3082\u306e) nourriture"
+    ],
+    "\u8a95\u751f\u65e5": [
+        8,
+        2,
+        "(\u305f\u3093\u3058\u3087\u3046\u3073) anniversaire"
+    ],
+    "\u6bb5\u3005": [
+        2,
+        1,
+        "(\u3060\u3093\u3060\u3093) peu \u00e0 peu, petit \u00e0 petit"
+    ],
+    "\u8fd1\u3044": [
+        3,
+        1,
+        "(\u3061\u304b\u3044) proche, pr\u00e8s"
+    ],
+    "\u5730\u4e0b\u9244": [
+        2,
+        1,
+        "(\u3061\u304b\u3066\u3064) m\u00e9tro"
+    ],
+    "\u5730\u56f3": [
+        11,
+        3,
+        "(\u3061\u305a) carte, plan"
+    ],
+    "\u9003\u3052\u308b": [
+        10,
+        3,
+        "(\u306b\u3052\u308b) s'enfuir, fuir, s'\u00e9chapper"
+    ],
+    "\u8170": [
+        2,
+        1,
+        "(\u3053\u3057) hanche, dos, bas du dos; flexibilit\u00e9, \u00e9lasticit\u00e9"
+    ],
+    "\u5931\u305b\u308d": [
+        10,
+        3,
+        "(\u3046\u305b\u308d) va-t'en, dispara\u00eet, hors de ma vue ! (se dit \u00e0 l'imp\u00e9ratif)"
+    ],
+    "\u5931\u671b": [
+        -1,
+        1,
+        "(\u3057\u3064\u307c\u3046) d\u00e9sespoir"
+    ],
+    "\u5931\u793c\u3057\u307e\u3059": [
+        5,
+        1,
+        "(\u3057\u3064\u308c\u3044\u3057\u307e\u3059) Excusez-moi de vous d\u00e9ranger"
+    ],
+    "\u6069\u306b\u7740\u308b": [
+        2,
+        1,
+        "(\u304a\u3093\u306b\u304d\u308b) se sentir redevable envers quelqu'un"
+    ],
+    "\u753a": [
+        5,
+        1,
+        "(\u307e\u3061) ville (petite ou moyenne), rue, route, quartier"
+    ],
+    "\u5e3d\u5b50": [
+        1,
+        1,
+        "(\u307c\u3046\u3057) chapeau, bonnet"
+    ],
+    "\u8336\u7897": [
+        0,
+        1,
+        "(\u3061\u3083\u308f\u3093) bol \u00e0 th\u00e9, bol \u00e0 riz, bol en porcelaine"
+    ],
+    "\u4e01\u5ea6": [
+        5,
+        1,
+        "(\u3061\u3087\u3046\u3069) juste, justement; correct; exactement"
+    ],
+    "\u4e00\u5bf8": [
+        -2,
+        1,
+        "(\u3061\u3087\u3063\u3068) un peu"
+    ],
+    "\u4e00\u65e5": [
+        1,
+        1,
+        "(\u3064\u3044\u305f\u3061) le premier du mois; un jour; une journ\u00e9e"
+    ],
+    "\u6e26": [
+        5,
+        1,
+        "(\u3046\u305a) tourbillon"
+    ],
+    "\u69d8": [
+        4,
+        1,
+        "(\u3055\u307e) suffixe honorifique, qui montre le respect"
+    ],
+    "\u52ff\u8ad6": [
+        2,
+        1,
+        "(\u3082\u3061\u308d\u3093) \u00e9videmment, bien s\u00fbr"
+    ],
+    "\u826f\u304f": [
+        4,
+        1,
+        "(\u3088\u304f) souvent"
+    ],
+    "\u6709\u540d | \u540d\u58f0": [
+        4,
+        1,
+        "(\u3086\u3046\u3081\u3044 | \u3081\u3044\u305b\u3044) gloire; c\u00e9l\u00e9brit\u00e9"
+    ],
+    "\u5bcc": [
+        4,
+        1,
+        "(\u3068\u307f) richesse, fortune"
+    ],
+    "\u60b2\u3057\u3044": [
+        1,
+        1,
+        "(\u304b\u306a\u3057\u3044) triste"
+    ],
+    "\u6539\u672d": [
+        1,
+        1,
+        "(\u304b\u3044\u3055\u3064) contr\u00f4le de billets (automatique)"
+    ],
+    "\u30b4\u30df\u7bb1": [
+        3,
+        1,
+        "(\u3054\u307f\u3070\u3053) poubelle"
+    ],
+    "\u4e00\u968e": [
+        0,
+        1,
+        "(\u3044\u3063\u304b\u3044) rez-de-chauss\u00e9e"
+    ],
+    "\u4e8c\u968e": [
+        0,
+        1,
+        "(\u306b\u304b\u3044) \"deuxi\u00e8me\" \u00e9tage (le rez-de-chauss\u00e9e compte comme le premier)"
+    ],
+    "\u5730\u4e0b": [
+        4,
+        1,
+        "(\u3061\u304b) sous-sol"
+    ],
+    "\u9060\u3044": [
+        4,
+        1,
+        "(\u3068\u304a\u3044) loin, \u00e9loign\u00e9, distant"
+    ],
+    "\u30b3\u30f3\u30bb\u30f3\u30c8": [
+        3,
+        1,
+        "prise de courant, prise \u00e9lectrique"
+    ],
+    "\u51fa\u53e3": [
+        10,
+        3,
+        "(\u3067\u3050\u3061) sortie, exit"
+    ],
+    "\u81ea\u8ca9\u6a5f": [
+        5,
+        1,
+        "(\u3058\u306f\u3093\u304d) distributeur automatique"
+    ],
+    "\u4f5c\u308b | \u5275\u308b | \u9020\u308b": [
+        1,
+        1,
+        "(\u3064\u304f\u308b) cr\u00e9er, fabriquer; \u00e9lever, cultiver; commettre"
+    ],
+    "\u6b63\u5f26": [
+        0,
+        1,
+        "(\u305b\u3044\u3052\u3093) sinus (trigonom\u00e9trie)"
+    ],
+    "\u6b63": [
+        0,
+        1,
+        "(\u305b\u3044) dix mille sextillions (10^40)"
+    ],
+    "\u7de0\u76df": [
+        2,
+        1,
+        "(\u3066\u3044\u3081\u3044) formation d'une alliance, conclusion d'un trait\u00e9 d'alliance"
+    ],
+    "\u7de0\u5207\u65e5": [
+        0,
+        1,
+        "(\u3057\u3081\u304d\u308a\u3073) deadline, date limite, dernier d\u00e9lais"
+    ],
+    "\u70b9\u3051\u308b": [
+        0,
+        1,
+        "(\u3064\u3051\u308b) allumer (la lumi\u00e8re)"
+    ],
+    "\u52e4\u3081\u308b": [
+        2,
+        1,
+        "(\u3064\u3068\u3081\u308b) servir, travailler, \u00eatre employ\u00e9 \u00e0"
+    ],
+    "\u8a70\u307e\u3089\u306a\u3044": [
+        4,
+        1,
+        "(\u3064\u307e\u3089\u306a\u3044) ennuyeux, nul"
+    ],
+    "\u5f37\u3044": [
+        2,
+        1,
+        "(\u3064\u3088\u3044) fort, puissant; r\u00e9sistant, durable"
+    ],
+    "\u5f37\u5065": [
+        -2,
+        1,
+        "(\u304d\u3087\u3046\u3051\u3093) bonne sant\u00e9, sant\u00e9 robuste"
+    ],
+    "\u30c6\u30fc\u30d6\u30eb": [
+        3,
+        1,
+        "table"
+    ],
+    "\u624b\u7d19": [
+        5,
+        1,
+        "(\u3066\u304c\u307f) lettre"
+    ],
+    "\u51fa\u6765\u308b": [
+        4,
+        1,
+        "(\u3067\u304d\u308b) pouvoir (faire quelque chose)"
+    ],
+    "\u691c\u67fb | \u30c6\u30b9\u30c8": [
+        0,
+        1,
+        "(\u3051\u3093\u3055) test"
+    ],
+    "\u30c7\u30d1\u30fc\u30c8": [
+        4,
+        1,
+        "grand magasin"
+    ],
+    "\u3067\u3082 | \u3060\u304c": [
+        3,
+        1,
+        "mais"
+    ],
+    "\u5929\u6c17": [
+        5,
+        1,
+        "(\u3066\u3093\u304d) temps, climat"
+    ],
+    "\u7363": [
+        -2,
+        1,
+        "(\u3051\u3082\u306e | \u3058\u3085\u3046) b\u00eate, animal, brute"
+    ],
+    "\u9b54": [
+        3,
+        1,
+        "(\u307e) magique, diabolique"
+    ],
+    "\u9b54\u6cd5": [
+        2,
+        1,
+        "(\u307e\u307b\u3046) magie, sorcellerie"
+    ],
+    "\u8cde\u91d1": [
+        10,
+        3,
+        "(\u3057\u3087\u3046\u304d\u3093) prime, r\u00e9compense (financi\u00e8re)"
+    ],
+    "\u8a33": [
+        2,
+        1,
+        "(\u308f\u3051) raison, pourquoi"
+    ],
+    "\u57fa\u5730": [
+        5,
+        1,
+        "(\u304d\u3061) base (militaire)"
+    ],
+    "\u76ee\u7684": [
+        4,
+        1,
+        "(\u3082\u304f\u3066\u304d) but"
+    ],
+    "\u76ee\u7684\u5730": [
+        5,
+        1,
+        "(\u3082\u304f\u3066\u304d\u3061) destination"
+    ],
+    "\u5e97": [
+        0,
+        1,
+        "(\u307f\u305b) magasin, boutique, \u00e9choppe"
+    ],
+    "\u7e04": [
+        3,
+        1,
+        "(\u306a\u308f) corde"
+    ],
+    "\u5909": [
+        3,
+        1,
+        "(\u3078\u3093) \u00e9trange, dr\u00f4le, bizarre"
+    ],
+    "\u7f6a": [
+        1,
+        1,
+        "(\u3064\u307f) faute, p\u00e9ch\u00e9, crime, d\u00e9lit"
+    ],
+    "\u7d04\u675f": [
+        1,
+        1,
+        "(\u3084\u304f\u305d\u304f) promesse, engagement"
+    ],
+    "\u5bdb\u3044": [
+        2,
+        1,
+        "(\u3072\u308d\u3044) ouvert d'esprit"
+    ],
+    "\u5e83\u3044 | \u5ee3\u3044": [
+        0,
+        1,
+        "(\u3072\u308d\u3044) spacieux, large, vaste"
+    ],
+    "\u6383\u9664\u6a5f": [
+        10,
+        3,
+        "(\u305d\u3046\u3058\u304d) aspirateur"
+    ],
+    "\u6d17\u6fef\u6a5f": [
+        1,
+        1,
+        "(\u305b\u3093\u305f\u304f\u304d) machine \u00e0 laver le linge"
+    ],
+    "\u51b7\u8535\u5eab": [
+        2,
+        1,
+        "(\u308c\u3044\u305e\u3046\u3053) r\u00e9frig\u00e9rateur"
+    ],
+    "\u5927\u4f50": [
+        -4,
+        1,
+        "(\u305f\u3044\u3055) colonel, capitaine (marine)"
+    ],
+    "\u65e9\u3044": [
+        2,
+        1,
+        "(\u306f\u3084\u3044) t\u00f4t; vif, agile, rapide"
+    ],
+    "\u65e9\u304f": [
+        2,
+        1,
+        "(\u306f\u3084\u304f) vite, rapidement"
+    ],
+    "\u65e9\u53e3": [
+        4,
+        1,
+        "(\u306f\u3084\u304f\u3061) qui parle vite, volubile"
+    ],
+    "\u65e9\u671d": [
+        1,
+        1,
+        "(\u305d\u3046\u3061\u3087\u3046) de bon matin, de bonne heure"
+    ],
+    "\u6c7a\u3081\u308b": [
+        -2,
+        1,
+        "(\u304d\u3081\u308b) d\u00e9cider"
+    ],
+    "\u5b9d": [
+        5,
+        1,
+        "(\u305f\u304b\u3089) (mon) tr\u00e9sor, qqch de pr\u00e9cieux pour soi"
+    ],
+    "\u98db\u3076": [
+        3,
+        1,
+        "(\u3068\u3076) voler (dans les airs)"
+    ],
+    "\u7406\u7531": [
+        3,
+        1,
+        "(\u308a\u3086\u3046) raison"
+    ],
+    "\u76ee": [
+        4,
+        1,
+        "(\u3081) oeil, yeux"
+    ],
+    "\u96fb\u6c17": [
+        2,
+        1,
+        "(\u3067\u3093\u304d) \u00e9lectricit\u00e9, lumi\u00e8re"
+    ],
+    "\u6238\u68da": [
+        1,
+        1,
+        "(\u3068\u3060\u306a) armoire"
+    ],
+    "\u6238": [
+        2,
+        1,
+        "(\u3068) porte, porti\u00e8re"
+    ],
+    "\u6238\u5916": [
+        -2,
+        1,
+        "(\u3053\u304c\u3044) ext\u00e9rieur, dehors, plein air"
+    ],
+    "\u795e\u6238": [
+        1,
+        1,
+        "(\u3053\u3046\u3079) Kobe"
+    ],
+    "\u3069\u3046": [
+        4,
+        1,
+        "Comment ? De quelle mani\u00e8re ?"
+    ],
+    "\u3069\u3046\u3057\u3066": [
+        3,
+        1,
+        "Pour quelle raison ?"
+    ],
+    "\u3069\u3046\u305e": [
+        1,
+        1,
+        "S'il-vous-pla\u00eet"
+    ],
+    "\u3069\u3046\u3082": [
+        4,
+        1,
+        "Merci"
+    ],
+    "\u52d5\u7269": [
+        1,
+        1,
+        "(\u3069\u3046\u3076\u3064) animal"
+    ],
+    "\u5341\u65e5": [
+        0,
+        1,
+        "(\u3068\u304a\u304b) le 10 du mois; 10 jours"
+    ],
+    "\u6642\u8a08": [
+        1,
+        1,
+        "(\u3068\u3051\u3044) horloge, montre"
+    ],
+    "\u4f55\u51e6": [
+        1,
+        1,
+        "(\u3069\u3053) o\u00f9"
+    ],
+    "\u7684": [
+        4,
+        1,
+        "(\u307e\u3068 | \u3066\u304d) cible, objectif"
+    ],
+    "\u90e8\u5c4b": [
+        -3,
+        1,
+        "(\u3078\u3084) pi\u00e8ce, chambre"
+    ],
+    "\u76fe": [
+        3,
+        1,
+        "(\u305f\u3066) bouclier"
+    ],
+    "\u8840": [
+        1,
+        1,
+        "(\u3061) sang"
+    ],
+    "\u8ca0\u3051": [
+        2,
+        1,
+        "(\u307e\u3051) d\u00e9faite"
+    ],
+    "\u52dd\u8005": [
+        2,
+        1,
+        "(\u3057\u3087\u3046\u3057\u3083) vainqueur"
+    ],
+    "\u4e8c\u5200\u6d41": [
+        4,
+        1,
+        "(\u306b\u3068\u3046\u308a\u3085\u3046) style de combat \u00e0 deux \u00e9p\u00e9es"
+    ],
+    "\u5f31": [
+        2,
+        1,
+        "(\u3058\u3083\u304f) \u00e0 peine; faiblesse, faible"
+    ],
+    "\u5f31\u3044": [
+        5,
+        1,
+        "(\u3088\u308f\u3044) faible, fragile"
+    ],
+    "\u5fc5\u305a": [
+        -2,
+        1,
+        "(\u304b\u306a\u3089\u305a) sans faute, imp\u00e9rativement; certainement"
+    ],
+    "\u5a18": [
+        1,
+        1,
+        "(\u3080\u3059\u3081) fille"
+    ],
+    "\u79d8\u5bc6": [
+        4,
+        1,
+        "(\u3072\u307f\u3064) secret"
+    ],
+    "\u6240": [
+        3,
+        1,
+        "(\u3068\u3053\u308d) endroit, place, lieu"
+    ],
+    "\u56f3\u66f8\u9928": [
+        0,
+        1,
+        "(\u3068\u3057\u3087\u304b\u3093) biblioth\u00e8que"
+    ],
+    "\u3069\u3061\u3089": [
+        4,
+        1,
+        "lequel, par o\u00f9 ?"
+    ],
+    "\u3069\u3063\u3061": [
+        3,
+        1,
+        "lequel, laquelle"
+    ],
+    "\u3068\u3066\u3082": [
+        2,
+        1,
+        "tr\u00e8s"
+    ],
+    "\u3069\u306a\u305f (forme honorifique de \u8ab0)": [
+        4,
+        1,
+        "qui"
+    ],
+    "\u6b62\u307e\u308b": [
+        2,
+        1,
+        "(\u3068\u307e\u308b) s'arr\u00eater, faire une pause; se poser, se percher, se jucher"
+    ],
+    "\u53cb\u9054": [
+        0,
+        1,
+        "(\u3068\u3082\u3060\u3061) ami"
+    ],
+    "\u9ce5": [
+        3,
+        1,
+        "(\u3068\u308a) oiseau"
+    ],
+    "\u53d6\u308b": [
+        -2,
+        1,
+        "(\u3068\u308b) prendre, saisir; voler; enlever, \u00f4ter; jouer, se battre contre"
+    ],
+    "\u64ae\u308b": [
+        0,
+        1,
+        "(\u3068\u308b) prendre une photo, filmer"
+    ],
+    "\u30ca\u30a4\u30d5": [
+        1,
+        1,
+        "couteau"
+    ],
+    "\u9cf4\u304f": [
+        5,
+        1,
+        "(\u306a\u304f) chanter (oiseau), aboyer, siffler (bruit d'animaux)"
+    ],
+    "\u9cf4\u304f\u732b\u306f\u9f20\u3092\u6355\u3089\u306c": [
+        1,
+        1,
+        "(\u306a\u304f\u306d\u3053\u308f\u306d\u305a\u307f\u3092\u3068\u3089\u306c) Ce ne sont pas ceux qui parlent beaucoup qui en font le plus (expression); litt\u00e9ralement : Un chat qui miaule n'attrape pas de souris"
+    ],
+    "\u4ea1\u304f\u3059 | \u7121\u304f\u3059 | \u5931\u304f\u3059": [
+        2,
+        1,
+        "(\u306a\u304f\u3059) perdre (un \u00eatre cher, quelque chose); \u00e9garer"
+    ],
+    "\u4f55\u6545": [
+        1,
+        1,
+        "(\u306a\u305c) pourquoi ?"
+    ],
+    "\u590f": [
+        0,
+        1,
+        "(\u306a\u3064) \u00e9t\u00e9"
+    ],
+    "\u5bc2\u3057\u3044": [
+        -1,
+        1,
+        "(\u3055\u3073\u3057\u3044) souffrant de solitude; solitaire"
+    ],
+    "\u99c4\u76ee": [
+        -1,
+        1,
+        "(\u3060\u3081) inutile, sans espoir, impossible; interdit, mauvais"
+    ],
+    "\u52d5\u304f": [
+        1,
+        1,
+        "(\u3046\u3054\u304f) bouger; fonctionner; op\u00e9rer; changer"
+    ],
+    "\u9a6b": [
+        0,
+        1,
+        "(\u3068\u3069\u308d\u304d) de nombreux oiseaux"
+    ],
+    "\u8f5f\u304f": [
+        0,
+        1,
+        "(\u3068\u3069\u308d\u304f) \u00eatre connu; palpiter"
+    ],
+    "\u8f5f\u304b\u3059": [
+        1,
+        1,
+        "(\u3068\u3069\u308d\u304b\u3059) faire r\u00e9sonner un son; faire savoir qqch au monde entier; faire battre (coeur)"
+    ],
+    "\u97ad": [
+        2,
+        1,
+        "(\u3080\u3061) fouet, cravache"
+    ],
+    "\u6211\u3005": [
+        2,
+        1,
+        "(\u308f\u308c\u308f\u308c) nous"
+    ],
+    "\u8eab\u5206": [
+        -1,
+        1,
+        "(\u307f\u3076\u3093) condition, rang, classe, position"
+    ],
+    "\u5922": [
+        -2,
+        1,
+        "(\u3086\u3081) r\u00eave"
+    ],
+    "\u5012\u308c\u308b": [
+        -2,
+        1,
+        "(\u305f\u304a\u308c\u308b) tomber, s'\u00e9vanouir, succomber, mourir; \u00eatre battu; \u00eatre bloqu\u00e9 au lit"
+    ],
+    "\u559c\u3093\u3067": [
+        0,
+        1,
+        "(\u3088\u308d\u3053\u3093\u3067) avec plaisir, volontiers"
+    ],
+    "\u4e57\u308a\u8fbc\u3080": [
+        0,
+        1,
+        "(\u306e\u308a\u3053\u3080) embarquer, monter dans, entrer, aider"
+    ],
+    "\u6d77\u56f3": [
+        3,
+        1,
+        "(\u304b\u3044\u305a) carte marine"
+    ],
+    "\u5c02\u9580": [
+        1,
+        1,
+        "(\u305b\u3093\u3082\u3093) sp\u00e9cialit\u00e9"
+    ],
+    "\u6ce5\u68d2": [
+        1,
+        1,
+        "(\u3069\u308d\u307c\u3046) voleur, cambrioleur"
+    ],
+    "\u4e0d\u5473\u3044": [
+        1,
+        1,
+        "(\u307e\u305a\u3044) mauvais, de mauvais go\u00fbt, peu app\u00e9tissant"
+    ],
+    "\u7a7a": [
+        4,
+        1,
+        "(\u304b\u3089) vide"
+    ],
+    "\u7a7a\u624b": [
+        1,
+        1,
+        "(\u304b\u3089\u3066) karate"
+    ],
+    "\u30db\u30fc\u30e0": [
+        3,
+        1,
+        "quai; accueil; maison, chez soi"
+    ],
+    "\u8d70\u308b": [
+        5,
+        1,
+        "(\u306f\u3057\u308b) courir; voyager; conduire; se d\u00e9p\u00eacher de; s'\u00e9couler"
+    ],
+    "\u4e57\u308a\u63db\u3048": [
+        2,
+        1,
+        "(\u306e\u308a\u304b\u3048) changement, correspondance; enjambement"
+    ],
+    "\u4e57\u63db\u5207\u7b26": [
+        2,
+        1,
+        "(\u306e\u308a\u304b\u3048\u304d\u3063\u3077) billet de correspondance"
+    ],
+    "\u5f7c\u6c0f": [
+        3,
+        1,
+        "(\u304b\u308c\u3057) petit ami"
+    ],
+    "\u97d3\u56fd": [
+        0,
+        1,
+        "(\u304b\u3093\u3053\u304f) Cor\u00e9e du Sud"
+    ],
+    "\u8da3\u5473": [
+        -1,
+        1,
+        "(\u3057\u3085\u307f) passe-temps"
+    ],
+    "\u3082\u3046\u76f4\u3050": [
+        5,
+        1,
+        "(\u3082\u3046\u3059\u3050) dans tr\u00e8s peu de temps, sur le point de"
+    ],
+    "\u7d42\u70b9": [
+        2,
+        1,
+        "(\u3057\u3085\u3046\u3066\u3093) terminus"
+    ],
+    "\u6c38\u3044": [
+        1,
+        1,
+        "(\u306a\u304c\u3044) de longue dur\u00e9e"
+    ],
+    "\u5f15\u3063\u8d8a\u3059": [
+        2,
+        1,
+        "(\u3072\u3063\u3053\u3059) d\u00e9m\u00e9nager"
+    ],
+    "\u30a8\u30a2\u30b3\u30f3": [
+        5,
+        1,
+        "climatiseur"
+    ],
+    "\u79c1\u4e8b": [
+        -1,
+        1,
+        "(\u3057\u3058) affaire personnelle"
+    ],
+    "\u4e8b": [
+        3,
+        1,
+        "(\u3053\u3068 | \u3058) chose, affaire, fait; incident; situation"
+    ],
+    "\u7d75\u672c": [
+        3,
+        1,
+        "(\u3048\u307b\u3093) livre d'images"
+    ],
+    "\u4e8c\u65e5": [
+        5,
+        1,
+        "(\u3075\u3064\u304b) le deux du mois; deux jours"
+    ],
+    "\u820c": [
+        2,
+        1,
+        "(\u3057\u305f) langue"
+    ],
+    "\u79d1\u5b66": [
+        2,
+        1,
+        "(\u304b\u304c\u304f) sciences"
+    ],
+    "\u822a\u6d77": [
+        0,
+        1,
+        "(\u3053\u3046\u304b\u3044) navigation"
+    ],
+    "\u8208\u5473": [
+        -1,
+        1,
+        "(\u304d\u3087\u3046\u307f) int\u00e9r\u00eat"
+    ],
+    "\u97f3\u7b26": [
+        0,
+        1,
+        "(\u304a\u3093\u3077) note de musique"
+    ],
+    "\u697d\u5668": [
+        0,
+        1,
+        "(\u304c\u3063\u304d) instrument (de musique)"
+    ],
+    "\u697d\u5712": [
+        0,
+        1,
+        "(\u3089\u304f\u3048\u3093) paradis"
+    ],
+    "\u6f2b\u753b": [
+        5,
+        1,
+        "(\u307e\u3093\u304c) manga"
+    ],
+    "\u8aad\u66f8": [
+        4,
+        1,
+        "(\u3069\u304f\u3057\u3087) la lecture"
+    ],
+    "\u610f\u898b": [
+        -1,
+        1,
+        "(\u3044\u3051\u3093) avis, opinion"
+    ],
+    "\u767a\u898b": [
+        1,
+        1,
+        "(\u306f\u3063\u3051\u3093) d\u00e9couverte"
+    ],
+    "\u767a\u898b\u3059\u308b": [
+        2,
+        1,
+        "(\u306f\u3063\u3051\u3093\u3059\u308b) d\u00e9couvrir"
+    ],
+    "\u590f\u4f11\u307f": [
+        1,
+        1,
+        "(\u306a\u3064\u3084\u3059\u307f) vacances d'\u00e9t\u00e9"
+    ],
+    "\u7b49 | \u6294": [
+        4,
+        1,
+        "(\u306a\u3069) par exemple, etc, entres autres"
+    ],
+    "\u4e03\u65e5": [
+        2,
+        1,
+        "(\u306a\u306e\u304b) 7\u00e8me jour; 7 jours"
+    ],
+    "\u7fd2\u3046": [
+        -2,
+        1,
+        "(\u306a\u3089\u3046) apprendre; prendre des le\u00e7ons, prendre des cours"
+    ],
+    "\u4e26\u3076": [
+        2,
+        1,
+        "(\u306a\u3089\u3076) faire la queue; aligner, s'aligner"
+    ],
+    "\u6210\u308b": [
+        1,
+        1,
+        "(\u306a\u308b) devenir, grandir, pousser, r\u00e9ussir"
+    ],
+    "\u8377\u7269": [
+        -1,
+        1,
+        "(\u306b\u3082\u3064) bagage; fardeau"
+    ],
+    "\u8131\u3050": [
+        2,
+        1,
+        "(\u306c\u3050) enlever ses v\u00eatements"
+    ],
+    "\u6e29\u3044": [
+        2,
+        1,
+        "(\u306c\u308b\u3044) ti\u00e8de"
+    ],
+    "\u30cd\u30af\u30bf\u30a4": [
+        0,
+        1,
+        "cravatte"
+    ],
+    "\u30ce\u30fc\u30c8": [
+        1,
+        1,
+        "cahier"
+    ],
+    "\u767b\u308b": [
+        1,
+        1,
+        "(\u306e\u307c\u308b) monter, grimper, s'\u00e9lever; \u00eatre promu"
+    ],
+    "\u98f2\u307f\u7269": [
+        2,
+        1,
+        "(\u306e\u307f\u3082\u306e) boisson"
+    ],
+    "\u4e57\u308b": [
+        -1,
+        1,
+        "(\u306e\u308b) monter (dans un v\u00e9hicule)"
+    ],
+    "\u6b6f": [
+        2,
+        1,
+        "(\u306f) dent"
+    ],
+    "\u6b6f\u79d1": [
+        1,
+        1,
+        "(\u3057\u304b) cabinet dentaire"
+    ],
+    "\u7070\u76bf": [
+        1,
+        1,
+        "(\u306f\u3044\u3056\u3089) cendrier"
+    ],
+    "\u7070": [
+        1,
+        1,
+        "(\u306f\u3044) cendre"
+    ],
+    "\u8449\u66f8": [
+        0,
+        1,
+        "(\u306f\u304c\u304d) carte postale"
+    ],
+    "\u8336\u8449": [
+        1,
+        1,
+        "(\u3061\u3083\u3070) feuille de th\u00e9"
+    ],
+    "\u8449": [
+        0,
+        1,
+        "(\u306f | \u3088\u3046) feuille d'arbre | compteur (choses fines et plates : feuilles d'arbres ou de papier)"
+    ],
+    "\u7bb1": [
+        1,
+        1,
+        "(\u306f\u3053) bo\u00eete"
+    ],
+    "\u6a4b": [
+        2,
+        1,
+        "(\u306f\u3057) pont"
+    ],
+    "\u7bb8": [
+        -1,
+        1,
+        "(\u306f\u3057) baguettes (pour manger) : ils mangent avec des ponts ahah"
+    ],
+    "\u59cb\u307e\u308b": [
+        1,
+        1,
+        "(\u306f\u3058\u307e\u308b) commencer, d\u00e9buter; se produire \u00e0 nouveau; dater de"
+    ],
+    "\u59cb\u3081 | \u521d\u3081": [
+        2,
+        1,
+        "(\u306f\u3058\u3081) d\u00e9but"
+    ],
+    "\u521d\u3081\u3066": [
+        1,
+        1,
+        "(\u306f\u3058\u3081\u3066) pour la premi\u00e8re fois, premi\u00e8rement, pour commencer"
+    ],
+    "\u7269\u8a9e": [
+        1,
+        1,
+        "(\u3082\u306e\u304c\u305f\u308a) compte, r\u00e9cit"
+    ],
+    "\u5358\u8a9e": [
+        1,
+        1,
+        "(\u305f\u3093\u3054) mot, vocabulaire"
+    ],
+    "\u5375\u306e\u9ec4\u8eab": [
+        2,
+        1,
+        "(\u305f\u307e\u3054\u306e\u304d\u307f) jaune d'oeuf"
+    ],
+    "\u5375\u306e\u767d\u8eab": [
+        0,
+        1,
+        "(\u305f\u307e\u3054\u306e\u3057\u308d\u307f) blanc d'oeuf"
+    ],
+    "\u98df\u5668": [
+        -3,
+        1,
+        "(\u3057\u3087\u3063\u304d) vaisselle"
+    ],
+    "\u4eca\u591c": [
+        0,
+        1,
+        "(\u3053\u3093\u3084) ce soir, cette nuit"
+    ],
+    "\u4eca\u56de": [
+        2,
+        1,
+        "(\u3053\u3093\u304b\u3044) cette fois-ci"
+    ],
+    "\u4eca\u5ea6": [
+        2,
+        1,
+        "(\u3053\u3093\u3069) maintenant, cette fois, la prochaine fois, une autre fois"
+    ],
+    "\u9244": [
+        3,
+        1,
+        "(\u3066\u3064) fer"
+    ],
+    "\u9244\u92fc": [
+        2,
+        1,
+        "(\u3066\u3063\u3053\u3046) acier"
+    ],
+    "\u9244\u5263": [
+        3,
+        1,
+        "(\u3066\u3063\u3051\u3093) \u00e9p\u00e9e en fer"
+    ],
+    "\u4e8c\u5341\u6b73": [
+        0,
+        1,
+        "(\u306f\u305f\u3061) 20 ans"
+    ],
+    "\u4e8c\u5341\u65e5 ": [
+        1,
+        1,
+        "(\u306f\u3064\u304b) le 20 du mois; vingt jours"
+    ],
+    "\u82b1": [
+        2,
+        1,
+        "(\u306f\u306a) fleur"
+    ],
+    "\u9f3b": [
+        -1,
+        1,
+        "(\u306f\u306a) nez"
+    ],
+    "\u901f\u3044": [
+        2,
+        1,
+        "(\u306f\u3084\u3044) rapide"
+    ],
+    "\u6625": [
+        -4,
+        1,
+        "(\u306f\u308b) printemps"
+    ],
+    "\u9280\u884c\u54e1": [
+        0,
+        1,
+        "(\u304e\u3093\u3053\u3046\u3044\u3093) employ\u00e9 de banque"
+    ],
+    "\u98db\u884c\u6a5f": [
+        1,
+        1,
+        "(\u3072\u3053\u3046\u304d) avion"
+    ],
+    "\u6b69\u884c\u8005": [
+        2,
+        1,
+        "(\u307b\u3053\u3046\u3057\u3083) pi\u00e9ton"
+    ],
+    "\u672a\u6765": [
+        2,
+        1,
+        "(\u307f\u3089\u3044) futur; le monde \u00e0 venir"
+    ],
+    "\u518d\u6765\u9031": [
+        2,
+        1,
+        "(\u3055\u3089\u3044\u3057\u3085\u3046) dans deux semaines"
+    ],
+    "\u518d\u6765\u5e74": [
+        3,
+        1,
+        "(\u3055\u3089\u3044\u306d\u3093) dans deux ans"
+    ],
+    "\u518d": [
+        3,
+        1,
+        "(\u3055\u3044) re-, encore, \u00e0 nouveau, r\u00e9p\u00e9t\u00e9, pour la deuxi\u00e8me fois"
+    ],
+    "\u8aac\u660e": [
+        3,
+        1,
+        "(\u305b\u3064\u3081\u3044) explications"
+    ],
+    "\u8aac\u660e\u3059\u308b": [
+        1,
+        1,
+        "(\u305b\u3064\u3081\u3044\u3059\u308b) expliquer, \u00e9clairer"
+    ],
+    "\u8a3c\u660e": [
+        2,
+        1,
+        "(\u3057\u3087\u3046\u3081\u3044) preuve"
+    ],
+    "\u8a3c\u660e\u3059\u308b": [
+        2,
+        1,
+        "(\u3057\u3087\u3046\u3081\u3044\u3059\u308b) prouver, d\u00e9montrer"
+    ],
+    "\u9928": [
+        -1,
+        1,
+        "(\u304b\u3093) grand b\u00e2timent; b\u00e2timent public"
+    ],
+    "\u6c34\u65cf\u9928": [
+        -1,
+        1,
+        "(\u3059\u3044\u305e\u304f\u304b\u3093) aquarium"
+    ],
+    "\u7f8e\u8853\u9928": [
+        1,
+        1,
+        "(\u3073\u3058\u3085\u3064\u304b\u3093) mus\u00e9e d'art, galerie d'art"
+    ],
+    "\u5bb6\u8cc3": [
+        3,
+        1,
+        "(\u3084\u3061\u3093) loyer"
+    ],
+    "\u4e00\u4eba": [
+        1,
+        1,
+        "(\u3072\u3068\u308a) une seule personne; tout seul"
+    ],
+    "\u4e00\u56de": [
+        3,
+        1,
+        "(\u3044\u3063\u304b\u3044) une fois"
+    ],
+    "\u7b2c\u4e00": [
+        2,
+        1,
+        "(\u3060\u3044\u3044\u3061) premier, num\u00e9ro 1"
+    ],
+    "\u4e8c\u500d": [
+        -1,
+        1,
+        "(\u306b\u3070\u3044) double, deux fois"
+    ],
+    "\u4e09\u5206\u306e\u4e00": [
+        4,
+        1,
+        "(\u3055\u3093\u3076\u3093\u306e\u3044\u3061) un tiers"
+    ],
+    "\u4e09\u5206\u306e\u4e8c": [
+        3,
+        1,
+        "(\u3055\u3093\u3076\u3093\u306e\u306b) deux tiers"
+    ],
+    "\u76d7\u3080": [
+        3,
+        1,
+        "(\u306c\u3059\u3080) pillier, voler"
+    ],
+    "\u5b58\u5206\u306b": [
+        -2,
+        1,
+        "(\u305e\u3093\u3076\u3093\u306b) sans r\u00e9serve, \u00e0 sati\u00e9t\u00e9"
+    ],
+    "\u6226\u3044": [
+        2,
+        1,
+        "(\u305f\u305f\u304b\u3044) bataille"
+    ],
+    "\u80fd\u529b": [
+        -4,
+        1,
+        "(\u306e\u3046\u308a\u3087\u304f) comp\u00e9tence, talent, aptitude, factult\u00e9"
+    ],
+    "\u899a\u609f": [
+        4,
+        1,
+        "(\u304b\u304f\u3054) d\u00e9termination, r\u00e9solution, r\u00e9signation; savoir, connaissance"
+    ],
+    "\u8b66\u5bdf": [
+        1,
+        1,
+        "(\u3051\u3044\u3055\u3064) police"
+    ],
+    "\u8b66\u5bdf\u72ac": [
+        2,
+        1,
+        "(\u3051\u3044\u3055\u3064\u3051\u3093) chien policier"
+    ],
+    "\u8b66\u5bdf\u7f72": [
+        3,
+        1,
+        "(\u3051\u3044\u3055\u3064\u3057\u3087) commissariat de police"
+    ],
+    "\u79d8\u5bc6\u8b66\u5bdf": [
+        2,
+        1,
+        "(\u3072\u307f\u3064\u3051\u3044\u3055\u3064) police secr\u00e8te"
+    ],
+    "\u4f55\u304b": [
+        2,
+        1,
+        "(\u306a\u306b\u304b) quelque chose"
+    ],
+    "\u4f55\u3082": [
+        4,
+        1,
+        "(\u306a\u306b\u3082) rien"
+    ],
+    "\u6628\u591c": [
+        -1,
+        1,
+        "(\u3055\u304f\u3084 | \u3086\u3046\u3079) hier soir, la nuit derni\u00e8re"
+    ],
+    "\u89aa\u53cb": [
+        0,
+        1,
+        "(\u3057\u3093\u3086\u3046) ami intime, confident"
+    ],
+    "\u9054\u3059\u308b": [
+        0,
+        1,
+        "(\u305f\u3063\u3059\u308b) atteindre"
+    ],
+    "\u4f55\u6b73": [
+        1,
+        1,
+        "(\u306a\u3093\u3055\u3044) Quel \u00e2ge ?"
+    ],
+    "\u7b11": [
+        -2,
+        1,
+        "(\u308f\u3089) rire (utilis\u00e9 par les jeunes surtout : lmao, rofl, mdr, lol,...)"
+    ],
+    "\u7f60\u3092\u5f35\u308b": [
+        -1,
+        1,
+        "(\u308f\u306a\u3092\u306f\u308b) tendre un pi\u00e8ge, une embuscade"
+    ],
+    "\u8cbc\u308b": [
+        -1,
+        1,
+        "(\u306f\u308b) coller; \u00eatre cher; \u00e9tirer, tendre"
+    ],
+    "\u6674\u308c": [
+        2,
+        1,
+        "(\u306f\u308c) beau temps, temps clair; innocent\u00e9"
+    ],
+    "\u6674\u308c\u308b": [
+        1,
+        1,
+        "(\u306f\u308c\u308b) s'\u00e9claircir, se d\u00e9gager, se dissiper; \u00eatre banni"
+    ],
+    "\u756a\u53f7": [
+        -2,
+        1,
+        "(\u3070\u3093\u3054\u3046) numero, nombre"
+    ],
+    "\u534a\u5206": [
+        1,
+        1,
+        "(\u306f\u3093\u3076\u3093) trente secondes"
+    ],
+    "\u5f15\u304f": [
+        1,
+        1,
+        "(\u3072\u304f) tirer (une porte vers soi), retirer sa main, ...; jouer d'un instrument (\u00e0 cordes); soustraire"
+    ],
+    "\u5f3e\u304f": [
+        1,
+        1,
+        "(\u3072\u304f) jouer d'un instrument \u00e0 cordes/piano"
+    ],
+    "\u4f4e\u3044": [
+        2,
+        1,
+        "(\u3072\u304f\u3044) bas, peu \u00e9lev\u00e9, petit"
+    ],
+    "\u6687": [
+        1,
+        1,
+        "(\u3072\u307e) de repos, libre; temps libre"
+    ],
+    "\u75c5\u9662": [
+        0,
+        1,
+        "(\u3073\u3087\u3046\u3044\u3093) h\u00f4pital"
+    ],
+    "\u75c5\u6c17": [
+        0,
+        1,
+        "(\u3073\u3087\u3046\u304d) maladie"
+    ],
+    "\u663c": [
+        1,
+        1,
+        "(\u3072\u308b) midi; d\u00e9jeuner"
+    ],
+    "\u663c\u5fa1\u98ef": [
+        2,
+        1,
+        "(\u3072\u308b\u3054\u306f\u3093) d\u00e9jeuner (le midi)"
+    ],
+    "\u6bba\u3059": [
+        0,
+        1,
+        "(\u3053\u308d\u3059) tuer"
+    ],
+    "\u5927\u4e8b": [
+        0,
+        1,
+        "(\u3060\u3044\u3058) important; affaire s\u00e9rieuse"
+    ],
+    "\u5927\u4f53": [
+        -1,
+        1,
+        "(\u3060\u3044\u305f\u3044) en gros, \u00e0 peu pr\u00e8s; en g\u00e9n\u00e9ral"
+    ],
+    "\u5c0f\u9ea6": [
+        0,
+        1,
+        "(\u3053\u3080\u304e) bl\u00e9"
+    ],
+    "\u5c0f\u4eba": [
+        1,
+        1,
+        "(\u3053\u3073\u3068 | \u3057\u3087\u3046\u306b\u3093) nain, enfant (\u00e2ge d'\u00eatre en primaire)"
+    ],
+    "\u5c0f\u8aac": [
+        -1,
+        1,
+        "(\u3057\u3087\u3046\u305b\u3064) roman, nouvelle"
+    ],
+    "\u8aac": [
+        -3,
+        1,
+        "(\u305b\u3064) th\u00e9orie"
+    ],
+    "\u8eca\u6905\u5b50": [
+        5,
+        1,
+        "(\u304f\u308b\u307e\u3044\u3059) fauteuil roulant"
+    ],
+    "\u6551\u6025\u8eca": [
+        0,
+        1,
+        "(\u304d\u3085\u3046\u304d\u3085\u3046\u3057\u3083) ambulance"
+    ],
+    "\u5186\u5f27": [
+        -4,
+        1,
+        "(\u3048\u3093\u3053) arc de cercle"
+    ],
+    "\u7a7a\u98db\u3076\u5186\u76e4": [
+        -1,
+        1,
+        "(\u305d\u3089\u3068\u3076\u3048\u3093\u3070\u3093) soucoupe volante"
+    ],
+    "\u4e0d\u5b89": [
+        -1,
+        1,
+        "(\u3075\u3042\u3093) anxi\u00e9t\u00e9, angoisse, inqui\u00e9tude"
+    ],
+    "\u5411\u3044": [
+        -1,
+        1,
+        "(\u3080\u304b\u3044) oppos\u00e9; en face; autre c\u00f4t\u00e9"
+    ],
+    "\u5b88\u308b": [
+        0,
+        1,
+        "(\u307e\u3082\u308b) prot\u00e9ger, garder, respecter; ob\u00e9ir, observer, suivre, tenir une promesse"
+    ],
+    "\u70ba": [
+        0,
+        1,
+        "(\u305f\u3081) int\u00e9r\u00eat, but raison"
+    ],
+    "\u9811\u5f35\u308c": [
+        1,
+        1,
+        "(\u304c\u3093\u3070\u308c) courage ! bon courage ! Tiens bon !"
+    ],
+    "\u5c01\u7b52": [
+        -2,
+        1,
+        "(\u3075\u3046\u3068\u3046) enveloppe"
+    ],
+    "\u5439\u304f": [
+        0,
+        1,
+        "(\u3075\u304f) souffler, jouer d'un instrument \u00e0 vent; siffler; \u00e9mettre"
+    ],
+    "\u670d": [
+        0,
+        1,
+        "(\u3075\u304f) v\u00eatement"
+    ],
+    "\u8c5a": [
+        0,
+        1,
+        "(\u3076\u305f) cochon"
+    ],
+    "\u592a\u3044": [
+        -2,
+        1,
+        "(\u3075\u3068\u3044) gros, gras, \u00e9pais"
+    ],
+    "\u51ac": [
+        1,
+        1,
+        "(\u3075\u3086) hiver"
+    ],
+    "\u964d\u308b": [
+        1,
+        1,
+        "(\u3075\u308b) tomber (la pluie, la neige)"
+    ],
+    "\u6587\u7ae0": [
+        0,
+        1,
+        "(\u3076\u3093\u3057\u3087\u3046) texte, phrase, prose; style litt\u00e9raire"
+    ],
+    "\u4e0b\u624b": [
+        0,
+        1,
+        "(\u3078\u305f) maladroit, peu dou\u00e9"
+    ],
+    "\u8fba": [
+        0,
+        1,
+        "(\u3078\u3093 | \u307b\u3068\u308a) voisinage, proximit\u00e9, zone | voisinage d'un point d'eau"
+    ],
+    "\u4fbf\u5229": [
+        0,
+        1,
+        "(\u3079\u3093\u308a) pratique, commode, utile"
+    ],
+    "\u6700\u65b0": [
+        0,
+        1,
+        "(\u3055\u3044\u3057\u3093) le plus r\u00e9cent, le dernier en date"
+    ],
+    "\u65b0\u5bbf": [
+        0,
+        1,
+        "(\u3057\u3093\u3058\u3085\u304f) Shinjuku"
+    ],
+    "\u540c\u610f": [
+        -2,
+        1,
+        "(\u3069\u3046\u3044) accord, consentement, approbation"
+    ],
+    "\u901f\u5ea6": [
+        0,
+        1,
+        "(\u305d\u304f\u3069) vitesse"
+    ],
+    "\u97f3\u901f": [
+        0,
+        1,
+        "(\u304a\u3093\u305d\u304f) vitesse du son"
+    ],
+    "\u4e2d\u53e4": [
+        -2,
+        1,
+        "(\u3061\u3085\u3046\u3053) occasion, seconde main; Moyen \u00c2ge"
+    ],
+    "\u6545\u90f7": [
+        0,
+        1,
+        "(\u3053\u304d\u3087\u3046) pays natal, village natal"
+    ],
+    "\u53e4\u4ee3": [
+        0,
+        1,
+        "(\u3053\u3060\u3044) antiquit\u00e9"
+    ],
+    "\u8003\u53e4\u5b66": [
+        0,
+        1,
+        "(\u3053\u3046\u3053\u304c\u304f) arch\u00e9ologie"
+    ],
+    "\u9045\u523b": [
+        0,
+        1,
+        "(\u3061\u3053\u304f) retard, manque de ponctualit\u00e9"
+    ],
+    "\u6a5f\u5acc": [
+        0,
+        1,
+        "(\u304d\u3052\u3093) humeur, bonne humeur; sant\u00e9, bien-\u00eatre"
+    ],
+    "\u7d30\u3044": [
+        0,
+        1,
+        "(\u307b\u305d\u3044) mince, fin, menu"
+    ],
+    "\u66f2\u8def": [
+        0,
+        1,
+        "(\u304d\u3087\u304f\u308d) route sinueuse"
+    ],
+    "\u771f\u76f4\u3050": [
+        0,
+        1,
+        "(\u307e\u3063\u3059\u3050) tout droit"
+    ],
+    "\u771f\u3063\u76f4\u3050": [
+        0,
+        1,
+        "(\u307e\u3063\u3059\u3050) direct, honn\u00eate, franc"
+    ],
+    "\u5186\u3044": [
+        0,
+        1,
+        "(\u307e\u308b\u3044) rond, circulaire"
+    ],
+    "\u7ae0": [
+        0,
+        1,
+        "(\u3057\u3087\u3046) chapitre, section"
+    ],
+    "\u6700\u7d42\u7ae0": [
+        0,
+        1,
+        "(\u3055\u3044\u3057\u3085\u3046\u3057\u3087\u3046) dernier chapitre (sens propre ou figur\u00e9)"
+    ],
+    "\u5fd8\u308c\u308b": [
+        0,
+        1,
+        "(\u308f\u3059\u308c\u308b) oublier"
+    ],
+    "\u6577\u5730": [
+        0,
+        1,
+        "(\u3057\u304d\u3061) emplacement, terrain, parcelle, terres"
+    ],
+    "\u753a\u6c11": [
+        0,
+        1,
+        "(\u3061\u3087\u3046\u307f\u3093) habitants d'une ville, citadins"
+    ],
+    "\u78e8\u304f": [
+        0,
+        1,
+        "(\u307f\u304c\u304f) polir, brosser, nettoyer"
+    ],
+    "\u6b6f\u3092\u78e8\u304f": [
+        0,
+        1,
+        "(\u306f\u3092\u307f\u304c\u304f) se brosser les dents"
+    ],
+    "\u77ed\u3044": [
+        0,
+        1,
+        "(\u307f\u3058\u304b\u3044) court"
+    ],
+    "\u9053": [
+        0,
+        1,
+        "(\u307f\u3061) chemin, voie, rue, route"
+    ],
+    "\u4e09\u65e5": [
+        0,
+        1,
+        "(\u307f\u3063\u304b) le 3 du mois, troisjours"
+    ],
+    "\u7dd1": [
+        0,
+        1,
+        "(\u307f\u3069\u308a) vert"
+    ],
+    "\u7686\u3055\u3093": [
+        -2,
+        1,
+        "(\u307f\u306a\u3055\u3093) tout le monde"
+    ],
+    "\u8033": [
+        0,
+        1,
+        "(\u307f\u307f) oreille"
+    ],
+    "\u898b\u308b | \u89b3\u308b": [
+        0,
+        1,
+        "(\u307f\u308b | \u307f\u308b) regarder, voir | observer, contempler"
+    ],
+    "\u7686": [
+        0,
+        1,
+        "(\u307f\u3093\u306a) tout le monde, tous"
+    ],
+    "\u516d\u65e5": [
+        0,
+        1,
+        "(\u3080\u3044\u304b) 6\u00e8me jour (du mois), 6 jours"
+    ],
+    "\u96e3\u3057\u3044": [
+        0,
+        1,
+        "(\u3080\u3064\u304b\u3057\u3044 | \u3080\u305a\u304b\u3057\u3044) difficile, compliqu\u00e9"
+    ],
+    "\u773c\u93e1": [
+        0,
+        1,
+        "(\u3081\u304c\u306d) lunettes"
+    ],
+    "\u3082\u3046": [
+        0,
+        1,
+        "d\u00e9j\u00e0"
+    ],
+    "\u3082\u3046\u4e00\u5ea6": [
+        0,
+        1,
+        "(\u3082\u3046\u3044\u3061\u3069) encore une fois"
+    ],
+    "\u5973\u512a": [
+        0,
+        1,
+        "(\u3058\u3087\u3086\u3046) actrice"
+    ],
+    "\u604b\u4eba": [
+        -2,
+        1,
+        "(\u3053\u3044\u3073\u3068) petit ami(e)"
+    ],
+    "\u540d\u523a": [
+        0,
+        1,
+        "(\u3081\u3044\u3057) carte de visite"
+    ],
+    "\u6b4c\u624b": [
+        0,
+        1,
+        "(\u304b\u3057\u3085) chanteur"
+    ],
+    "\u6b4c\u8a5e": [
+        0,
+        1,
+        "(\u304b\u3057) paroles d'une chanson"
+    ],
+    "\u56fd\u6b4c": [
+        0,
+        1,
+        "(\u3053\u3063\u304b) hymne national"
+    ],
+    "\u624b\u888b": [
+        0,
+        1,
+        "(\u3066\u3076\u304f\u308d) gant"
+    ],
+    "\u76f8\u624b": [
+        0,
+        1,
+        "(\u3042\u3044\u3066) adversaire; destinataire"
+    ],
+    "\u512a\u308c\u308b": [
+        0,
+        1,
+        "(\u3059\u3050\u308c\u308b) exceller"
+    ],
+    "\u4ff3\u512a": [
+        0,
+        1,
+        "(\u306f\u3044\u3086\u3046) acteur"
+    ],
+    "\u3082\u3063\u3068": [
+        0,
+        1,
+        "plus, encore"
+    ],
+    "\u9580": [
+        0,
+        1,
+        "(\u3082\u3093) portail"
+    ],
+    "\u516b\u767e\u5c4b": [
+        0,
+        1,
+        "(\u3084\u304a\u3084) marchand de fruits et l\u00e9gumes"
+    ],
+    "\u91ce\u83dc": [
+        0,
+        1,
+        "(\u3084\u3055\u3044) l\u00e9gume"
+    ],
+    "\u6613\u3057\u3044": [
+        0,
+        1,
+        "(\u3084\u3055\u3057\u3044) facile, simple (\u00e0 comprendre). Contrairement \u00e0 kantan qui est facile, simple (\u00e0 faire)"
+    ],
+    "\u5915\u65b9": [
+        0,
+        1,
+        "(\u3086\u3046\u304c\u305f) soir, soir\u00e9e, fin d'apr\u00e8s-midi"
+    ],
+    "\u5915\u98ef": [
+        0,
+        1,
+        "(\u3086\u3046\u306f\u3093) repas du soir, d\u00eener (moins formel que \"\u6669\u5fa1\u98ef\")"
+    ],
+    "\u90f5\u4fbf\u5c40": [
+        0,
+        1,
+        "(\u3086\u3046\u3073\u3093\u304d\u3087\u304f) bureau de poste"
+    ],
+    "\u96ea": [
+        0,
+        1,
+        "(\u3086\u304d) neige"
+    ],
+    "\u3086\u3063\u304f\u308a": [
+        0,
+        1,
+        "lentement, doucement"
+    ],
+    "\u52dd\u624b": [
+        0,
+        1,
+        "(\u304b\u3063\u3066) \u00e0 sa guise, sans permission; circonstances"
+    ],
+    "\u90aa\u9b54": [
+        0,
+        1,
+        "(\u3058\u3083\u307e) obstacle"
+    ],
+    "\u516b\u65e5": [
+        0,
+        1,
+        "(\u3088\u3046\u304b) le huit du mois, huit jours"
+    ],
+    "\u6d0b\u670d": [
+        1,
+        1,
+        "(\u3088\u3046\u3075\u304f) v\u00eatement (de style occidental)"
+    ],
+    "\u56db\u65e5": [
+        0,
+        1,
+        "(\u3088\u3063\u304b) le quatre du mois, quatre jours"
+    ],
+    "\u547c\u3076": [
+        0,
+        1,
+        "(\u3088\u3076) appeler, inviter"
+    ],
+    "\u591c": [
+        0,
+        1,
+        "(\u3088\u308b | \u3084) nuit, soir"
+    ],
+    "\u7acb\u6d3e": [
+        0,
+        1,
+        "(\u308a\u3063\u3071) magnifique, majestueux, superbe, louable"
+    ],
+    "\u6599\u7406": [
+        0,
+        1,
+        "(\u308a\u3087\u3046\u308a) cuisine; nourriture"
+    ],
+    "\u96f6": [
+        0,
+        1,
+        "(\u308c\u3044) z\u00e9ro; rien, vide"
+    ],
+    "\u7df4\u7fd2": [
+        0,
+        1,
+        "(\u308c\u3093\u3057\u3085\u3046) entra\u00eenement, exercice"
+    ],
+    "\u5eca\u4e0b": [
+        0,
+        1,
+        "(\u308d\u3046\u304b) couloir"
+    ],
+    "\u82e5\u3044": [
+        0,
+        1,
+        "(\u308f\u304b\u3044) jeune"
+    ],
+    "\u5206\u304b\u308b": [
+        0,
+        1,
+        "(\u308f\u304b\u308b) comprendre, savoir, juger; d\u00e9couvrir"
+    ],
+    "\u6e21\u3059": [
+        0,
+        1,
+        "(\u308f\u305f\u3059) remettre (qqch \u00e0 qq'un)"
+    ],
+    "\u6e21\u308b": [
+        0,
+        1,
+        "(\u308f\u305f\u308b) traverser"
+    ],
+    "\u4ef2\u9593": [
+        0,
+        1,
+        "(\u306a\u304b\u307e) camarade, ami, associ\u00e9, partenaire"
+    ],
+    "\u5c48\u8fb1": [
+        0,
+        1,
+        "(\u304f\u3064\u3058\u3087\u304f) humiliation, disgr\u00e2ce"
+    ],
+    "\u72d9\u3046": [
+        0,
+        1,
+        "(\u306d\u3089\u3046) viser"
+    ],
+    "\u50b7": [
+        0,
+        1,
+        "(\u304d\u305a) blessure"
+    ]
+}
