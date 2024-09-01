@@ -4,7 +4,7 @@ This project has different files to train for the JLPT5 examen. In particular, i
 - The hiragana/katakana alphabets
 - The 80's kanji
 - Around 800 vocabulary words (with the kanjis that aren't expected for the JLPT5 test)
-- Some basics sentences useful if you travel to Japan. Those sentences also are examples of basics grammar construction
+- Some basics sentences useful if you travel to Japan. Those sentences are mostly examples of basics grammar construction
 
 To play this game, you need a profile. Here is how to start a new profile:
 - ADD DESCRIPTION
